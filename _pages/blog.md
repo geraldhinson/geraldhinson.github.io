@@ -1,7 +1,8 @@
 ---
-layout: default
+layout: page
 permalink: /blog/
 title: blog
+description: thoughts on tech, faith, coffee, and other topics worthy of rumination
 nav: true
 nav_order: 1
 pagination:
@@ -18,6 +19,7 @@ pagination:
 
 <div class="post">
 
+<!-- GLH - hack
 {% assign blog_name_size = site.blog_name | size %}
 {% assign blog_description_size = site.blog_description | size %}
 
@@ -28,6 +30,7 @@ pagination:
     <h2>{{ site.blog_description }}</h2>
   </div>
   {% endif %}
+-->
 
 {% if site.display_tags and site.display_tags.size > 0 or site.display_categories and site.display_categories.size > 0 %}
 
