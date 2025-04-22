@@ -31,7 +31,7 @@ This personal website coughed to life like a neglected V8 engine for a number of
 
 Partly to provide a place to write biz/tech posts that are longer than LinkedIn allows. Partly as a forward link destination from other sites that vary greatly in terms of format & content supported.
 
-But, mostly to be a <b>single location for <sup>(1)</sup>ruminations on topics that matter most to me (and perhaps to you?). Things like: <b>faith, family, technology, guitar, coffee, sailing, writing</b>. Most of my life has been spent fixating on the things in that list. - And, of course, in the consumption of an amazing amount of peanut butter and a (successful!) <b>pursuit of the perfect biscuit</b>!
+But, mostly to be a <b>single location for <sup>(1)</sup>ruminations on topics that matter most to me (and perhaps to you?). Things like: <b>faith, family, technology, guitar, coffee, sailing, writing</b>. My life to-date has been an endless fixation on the things in that list. Ok, for full transparency I should also mention the consumption of a ridiculous amount of peanut butter and the (successful!) <b>pursuit of the perfect biscuit</b>!
 
 As the title says, this is 'Gerald, thus far' - I am still learning.
 
