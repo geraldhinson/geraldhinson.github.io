@@ -27,22 +27,23 @@ latest_posts:
 
 (NOTE: if you are seeing this 'NOTE' this website is still under heavy construction.)
 
-This personal website coughed to life like a neglected V8 engine for a number of reasons. 
+This personal website coughed to life like a neglected V8 engine for several reasons. 
 
-Partly to provide a place to write biz/tech posts that are longer than LinkedIn allows. Partly as a forward link destination from other sites that vary greatly in terms of format & content supported.
+Partly to provide a place to write biz/tech posts longer than LinkedIn allows. Partly as a forward link destination from other sites that vary greatly in terms of format & content supported.
 
-But, mostly to be a <b>single location for <sup>(1)</sup>ruminations on topics that matter most to me (and perhaps to you?). Things like: <b>faith, family, technology, guitar, coffee, sailing, writing</b>. My life to-date has been an endless fixation on the things in that list. Ok, for full transparency I should also mention the consumption of a ridiculous amount of peanut butter and the (successful!) <b>pursuit of the perfect biscuit</b>!
+But, mostly to be a <b>single location for <sup>(1)</sup>ruminations on the topics that matter most to me (and perhaps to you?). Things like: <b>faith, family, technology, guitar, coffee, sailing, writing</b>, and, of course, the (successful) pursuit of the <b>perfect biscuit!</b> My life thus far has been an endless fixation on the things in that list. 
 
-As the title says, this is 'Gerald, thus far' - I am still learning.
+But, as the title above says, I am still learning.
 
-That said, if you arrived here and find of interest:
+That said, if you find of interest:
 
 - My thoughts on building great software
 - Studies and stories from my life that explain my unapologetic faith in God/Jesus (and why you should join me in that)
-- My journey from Arkansas land-lubber to sailboat enthusiast
-- etc.
+- How an Arkansas land-lubber becomes a sailboat enthusiast
 
-Or, maybe, you also build <b>microservices</b> and are here for <b>Siftd</b> - the <em>(WARNING: adjective abuse ahead)</em> open-source, data-center agnostic, <b>journaled-microservice</b> framework for building simple backends that scale. 
+OR
+
+If, like me, you find occasion to build <b>back-end services</b> you may be here for <b>Siftd</b> - the <em>(WARNING: adjective abuse ahead)</em> open-source, data-center agnostic, <b>journaled-microservice</b> framework for building simple backends that scale. 
 
 Regardless, poke around a bit.
 
