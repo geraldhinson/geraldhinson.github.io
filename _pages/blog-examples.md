@@ -1,12 +1,12 @@
 ---
 layout: page
-permalink: /blog/
-title: blog
+permalink: /blog-examples/
+title: blog-examples
 description: thoughts on tech, faith, coffee, and other topics worthy of rumination
 nav: true
 nav_order: 1
 pagination:
-  enabled: false
+  enabled: true
   collection: posts
   permalink: /page/:num/
   per_page: 5
@@ -59,7 +59,7 @@ pagination:
   </div>
   {% endif %}
 
-{% assign featured_posts = site.posts | where: "categories", "actual-post"  | where: "featured", "true" %}
+{% assign featured_posts = site.posts | where: "featured", "true" %}
 {% if featured_posts.size > 0 %}
 <br>
 
@@ -107,9 +107,9 @@ pagination:
   <ul class="post-list">
 
     {% if page.pagination.enabled %}
-      {% assign postlist = paginator.posts | where: "categories", "actual-post" %}
+      {% assign postlist = paginator.posts | where: "categories", "sample-posts" %}
     {% else %}
-      {% assign postlist = site.posts | where: "categories", "actual-post"  %}
+      {% assign postlist = site.posts  | where: "categories", "sample-posts %}
     {% endif %}
 
     {% for post in postlist %}

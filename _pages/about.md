@@ -33,7 +33,7 @@ Partly to provide a place to write biz/tech posts longer than LinkedIn allows. P
 
 But, mostly to be a <b>single location for <sup>(1)</sup>ruminations on the topics that matter most to me (and perhaps to you?). Things like: <b>faith, family, technology, guitar, coffee, sailing, writing</b>, and, of course, the (successful) pursuit of the <b>perfect biscuit!</b> My life thus far has been an endless fixation on the things in that list. 
 
-But, as the title above says, I am still learning.
+But, as the title above implies, I am still learning.
 
 That said, if you find of interest:
 
@@ -43,7 +43,7 @@ That said, if you find of interest:
 
 OR
 
-If, like me, you find occasion to build <b>back-end services</b> you may be here for <b>Siftd</b> - the <em>(WARNING: adjective abuse ahead)</em> open-source, data-center agnostic, <b>journaled-microservice</b> framework for building simple backends that scale. 
+If you likewise find occasion to build <b>back-end services</b>, you may be here for <b>Siftd</b> - the <em>(WARNING: adjective abuse ahead)</em> open-source, data-center agnostic, <b>journaled-microservice</b> framework for building simple backends that scale. 
 
 Regardless, poke around a bit.
 

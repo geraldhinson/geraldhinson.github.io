@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
+title: projects-examples
+permalink: /projects-examples/
 description: A growing collection of your cool projects.
 nav: true
 nav_order: 3
-display_categories: [actual]
+display_categories: [sample, example]
 horizontal: false
 ---
 
