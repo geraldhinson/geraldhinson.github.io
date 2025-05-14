@@ -88,7 +88,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Ruminations (aka "Blog") # blog_name will be displayed in your blog page
-blog_description: thoughts on technologly, faith, coffee, and other topics worthy of exploration 
+blog_description: thoughts on technologly, faith, leadership, coffee, and other topics worthy of exploration 
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -97,7 +97,7 @@ pagination:
   enabled: true
 
 related_blog_posts:
-  enabled: true
+  enabled: false
   max_related: 5
 
 # Giscus comments (RECOMMENDED)
@@ -261,7 +261,7 @@ jekyll-archives:
   books:
     enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
 
-display_tags: ["siftd", "technology", "faith", "coffee", "code", "guitar"] # these tags will be displayed on the front page of your blog
+display_tags: ["siftd", "technology", "faith", "leadership", "coffee", "code", "guitar"] # these tags will be displayed on the front page of your blog
 #display_categories: ["services"] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
