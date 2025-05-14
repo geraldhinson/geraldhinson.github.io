@@ -349,6 +349,17 @@ ninja.data = [{
             window.location.href = "/blog/2015/code/";
           
         },
+      },{id: "post-the-value-of-folklore",
+        
+          title: "The value of Folklore",
+        
+        description: "The importance of telling and retelling",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2015/Folklore/";
+          
+        },
       },{id: "post-a-post-with-images",
         
           title: "a post with images",
