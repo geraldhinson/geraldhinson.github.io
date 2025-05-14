@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/repositories/";
           },
-        },{id: "post-a-post-with-plotly-js",
+        },{id: "post-the-value-of-folklore",
+        
+          title: "The value of Folklore",
+        
+        description: "The importance of telling and retelling",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/Folklore/";
+          
+        },
+      },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
@@ -347,17 +358,6 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2015/code/";
-          
-        },
-      },{id: "post-the-value-of-folklore",
-        
-          title: "The value of Folklore",
-        
-        description: "The importance of telling and retelling",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2015/Folklore/";
           
         },
       },{id: "post-a-post-with-images",
