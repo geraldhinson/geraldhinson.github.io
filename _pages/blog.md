@@ -59,7 +59,7 @@ pagination:
   </div>
   {% endif %}
 
-{% assign featured_posts = site.posts | where: "categories", "actual-post"  | where: "featured", "true" %}
+{% assign featured_posts = site.posts | where: "categories", "actual-posts"  | where: "featured", "true" %}
 {% if featured_posts.size > 0 %}
 <br>
 
@@ -107,9 +107,9 @@ pagination:
   <ul class="post-list">
 
     {% if page.pagination.enabled %}
-      {% assign postlist = paginator.posts | where: "categories", "actual-post" %}
+      {% assign postlist = paginator.posts | where: "categories", "actual-posts" %}
     {% else %}
-      {% assign postlist = site.posts | where: "categories", "actual-post"  %}
+      {% assign postlist = site.posts | where: "categories", "actual-posts"  %}
     {% endif %}
 
     {% for post in postlist %}
