@@ -41,6 +41,28 @@ ninja.data = [{
             window.location.href = "/blog/2025/Folklore/";
           
         },
+      },{id: "post-one-ring-to",
+        
+          title: "One Ring to ...",
+        
+        description: "The importance of actually caring",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/LordOfTheBins/";
+          
+        },
+      },{id: "post-on-writing",
+        
+          title: "On writing",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/Writing-StephenKing/";
+          
+        },
       },{id: "post-refusing-defeat",
         
           title: "Refusing Defeat",
