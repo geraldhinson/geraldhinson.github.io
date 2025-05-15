@@ -25,6 +25,8 @@ agile specialists whose expertise is only process? Who is being asked to celebra
 
 It is always about having <b><i>the right people on a shared crusade they all deeply believe in</i></b>, not the process. Making this reality is what leadership is all about.
 
+<b>(A great example of a 'process-first' created product)</b>
+
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/Processed.jpg" class="img-fluid rounded z-depth-1" %}
