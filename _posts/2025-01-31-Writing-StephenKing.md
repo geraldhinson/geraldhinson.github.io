@@ -2,7 +2,7 @@
 layout: post
 title: On writing
 date: 2025-04-21 12:00:00
-description: 
+description: Impasses don't care if you're famous!
 tags: leadership technology
 categories: actual-posts
 thumbnail: assets/img/StephenKingPartialBookCover.png
