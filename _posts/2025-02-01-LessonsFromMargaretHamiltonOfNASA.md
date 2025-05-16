@@ -10,7 +10,7 @@ thumbnail: assets/img/HackedPlugin.png
 
 A lesson on holistic engineering from NASA and Margaret Hamilton - circa 1969.
 
-Excerpted from below (which itself is from a Smithsonian article):
+Excerpted from a Smithsonian article:
 
 >Over time, Hamilton began to view the whole mission as a system:\
 --- “part is realized as software, part is peopleware, part is hardware.”

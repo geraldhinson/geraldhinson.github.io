@@ -6,7 +6,7 @@ permalink: /
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <div align="center"> <em style="font-family:courier-new; font-size:16px"> (should have used that sailboat image) </em></div>
 
