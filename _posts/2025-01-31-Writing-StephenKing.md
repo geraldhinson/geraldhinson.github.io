@@ -16,7 +16,7 @@ Occasionally, the goal has been the creation of fiction - like the unfinished dr
 
 The unfinished aspect of that is something they remind me of regularly.
 
-But, the many anecdotes I hear from authors, songwriters, and the like about eventually finishing a work they started only to reach an impasse - those words are give me hope for finishing my dragon story (I am desperately trying to remember the details of it)!
+But, I hear many anecdotes from authors, songwriters, and the like about eventually finishing a work they began only to reach an impasse - those words give me hope for finishing my dragon story (I am desperately trying to remember the details of it)!
 
 In that context, I share this amazing video from another storyteller you may have heard of.
 
