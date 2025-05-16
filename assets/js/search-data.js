@@ -41,6 +41,50 @@ ninja.data = [{
             window.location.href = "/blog/2025/Folklore/";
           
         },
+      },{id: "post-pragmatic-genai",
+        
+          title: "Pragmatic GenAI",
+        
+        description: "Daily (non-vibe) usage for developers",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/PragmaticUsageOfGenAI/";
+          
+        },
+      },{id: "post-on-the-dangers-of-hype",
+        
+          title: "On the dangers of Hype",
+        
+        description: "Even Apple got it wrong",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/HypeIsDangerous/";
+          
+        },
+      },{id: "post-silos-and-specializations",
+        
+          title: "Silos and Specializations",
+        
+        description: "Who benefits? You, your company, both?",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/SilosAndSpecialization/";
+          
+        },
+      },{id: "post-bad-bosses-suck",
+        
+          title: "Bad bosses suck",
+        
+        description: "And life is short",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/BadBossesSuck/";
+          
+        },
       },{id: "post-one-ring-to",
         
           title: "One Ring to ...",
@@ -52,15 +96,70 @@ ninja.data = [{
             window.location.href = "/blog/2025/LordOfTheBins/";
           
         },
+      },{id: "post-holistic-engineering",
+        
+          title: "Holistic engineering",
+        
+        description: "The only path to success",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/LessonsFromMargaretHamiltonOfNASA/";
+          
+        },
       },{id: "post-on-writing",
         
           title: "On writing",
         
-        description: "",
+        description: "Impasses don&#39;t care if you&#39;re famous!",
         section: "Posts",
         handler: () => {
           
             window.location.href = "/blog/2025/Writing-StephenKing/";
+          
+        },
+      },{id: "post-but-what-is-it-bad-at",
+        
+          title: "But, what is it bad at?",
+        
+        description: "The question that should be asked more",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/WhatIsItBadAt/";
+          
+        },
+      },{id: "post-engineers-can-be-hilarious",
+        
+          title: "Engineers can be hilarious",
+        
+        description: "Doing it wrong for fun and profit",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/EngineeringHumor/";
+          
+        },
+      },{id: "post-this-is-not-the-way",
+        
+          title: "This is NOT the way",
+        
+        description: "Blind faith that ignores data-protection realities? No thank you!",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/BlindToReality/";
+          
+        },
+      },{id: "post-this-is-the-way",
+        
+          title: "This IS the way",
+        
+        description: "Ignore the naysayers",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/ThisIsTheWay/";
           
         },
       },{id: "post-refusing-defeat",
