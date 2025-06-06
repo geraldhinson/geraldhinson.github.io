@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://geraldhinson.github.io/sitemap.xml
+Sitemap: https://geraldhinson.com/sitemap.xml
