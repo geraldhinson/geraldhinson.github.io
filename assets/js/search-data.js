@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/repositories/";
           },
-        },{id: "post-the-value-of-folklore",
+        },{id: "post-gene-amp-laurel-a-lesson-about-signs",
+        
+          title: "Gene &amp; Laurel - A Lesson about Signs",
+        
+        description: "Simple prayers can blow your mind",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/GlennAndLaurel-HousePrayerAnswer/";
+          
+        },
+      },{id: "post-the-value-of-folklore",
         
           title: "The value of Folklore",
         
