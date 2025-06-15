@@ -245,15 +245,11 @@ Those signs pointing us to God didn't stop happening in the 1st century.
 
 Signs, the likes of which God has been leaving on people's paths for centuries, to help us navigate life and find truth. Find Him.
 
-It is in that spirit that I share this crazy story about how <b><i>God used Laurel's simple desire to be a good mom for her kids to answer my depressed prayer</i></b> in an amazing way - a way that enriched all of our lives beautifully (and powerfully). 
+It is in that spirit that I share this crazy story about how <b><i>God used Laurel's simple desire to be a good mom for her kids to answer my depressed prayer</i></b>, and to deepen each of ours faith.
 
 I share it here <b> because I want you to have faith and to know God like we do.</b> And part of that is us all sharing our stories with each other - a lot more than has become our habit in these modern, sometimes discouraging times. 
 
-This experience became one of several 'anchors' in my and Jina's lives. Remembering it has given us confidence when times have been hard or discouraging.  It has helped us to <b>know</b> with great confidence that God is with us every step of the way.
-
-Perhaps hearing how God has moved in our lives will be helpful for your own passage.
-
-I know well the path of being one for whom faith does not come easily. Having worn out far more shoes on that path than should be necessary, my advice is this:
+This experience became one of several 'anchors' in my and Jina's lives. Remembering it has given us courage when times have been hard.  It has helped us to <b>know with confidence</b> that God is with us every step of the way.
 
 <b><i>Dare to seek God. Don't be passive. Engage with Him. Ask Him to reveal Himself to you - ask Him to help you see His many signs that you may be missing.
 
