@@ -30,9 +30,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/repositories/";
           },
-        },{id: "post-gene-amp-laurel-a-lesson-about-signs",
+        },{id: "post-glenn-amp-laurel-a-lesson-about-signs",
         
-          title: "Gene &amp; Laurel - A Lesson about Signs",
+          title: "Glenn &amp; Laurel - A Lesson about Signs",
         
         description: "Simple prayers can blow your mind",
         section: "Posts",
