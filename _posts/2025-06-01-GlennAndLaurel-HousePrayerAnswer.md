@@ -249,7 +249,7 @@ From the beginning, He has reached out to all people. Remember the stories of:
 -   Baalam, the evil prophet whose donkey saw more clearly than he did (hired by the king of <b>Moab</b> to curse Israel)
 -   Daniel influencing multiple kings of <b>Babylon</b>, one of whom publicly declared God as above all other gods to his entire kingdom
 
-God has made it clear from the beginning that He cares for <b>all people groups</b>, even in the Old Testament. Over and over, He has placed people in strategic roles and situations, and caused events to occur on behalf of all people, regardless of their ancestry or pedigree.
+God has made it clear from the beginning that He cares for <b>all people groups</b>, even in the Old Testament. Over and over, He has <b>chosen</b> people to place in strategic roles and situations, and caused specific events to occur on behalf of all people, regardless of their ancestry or pedigree.
 
 Why?
 
@@ -261,40 +261,40 @@ I love that translation.. “<b>perhaps ‘feel’ their way toward him and find
 
 Summarized:
 
-- The point of being chosen is NOT that you have been chosen. (It’s not about us! It never was!)
+- The point of being chosen is NOT that you have been chosen. (It has never been about us.)
 - The point of being chosen is to BE a sign.
 
-A sign whose only purpose is to point the way down a path that you’ve already traveled (maybe barely!) for those who have not.
+A sign whose primary purpose is to guide travelers along a path toward a destination worth reaching. The true destination. Toward God.
 
-Despite mankind’s endless attempts to give being “chosen” a lofty, look-how-special-we-are-meaning, that is the opposite of how God intended it. 
+Despite mankind’s endless attempts to give being “chosen” a lofty, look-how-special-we-are meaning, that is the opposite of how God intended it. 
 
 ><b><i>Signs are not destinations. People don’t travel thousands of miles just to stop at a sign outside their destination and take pictures of it.</i></b>
 
 Mark 16 - “and these **signs** shall follow those who believe”.
 
-- Signs help us navigate.
 - Some signs help us drive and not get lost. Or, to become un-lost.
 - Some signs help us to live and not get lost. Or, to become un-lost.
 
-It is in that spirit that I share this crazy story about how <b><i>God used Laurel's simple desire to be a good mom for her kids to answer my depressed prayer</i></b> in an amazing way - a way that enriched all of our lives beautifully (and powerfully). This story is one of the 'anchors' in our life. Remembering it has given us confidence when times have been hard or discouraging.
+It is in that spirit that I share this crazy story about how <b><i>God used Laurel's simple desire to be a good mom for her kids to answer my depressed prayer</i></b> in an amazing way - a way that enriched all of our lives beautifully (and powerfully). This story is one of several 'anchors' in my and Jina's lives. Remembering it has given us confidence when times have been hard or discouraging.
 
 It is one of the reasons we <b>know</b> with great confidence that God is with us every step of the way.
 
-><b><i>That story, and others like it on this blog, are just modern ‘signs’.
+><b><i>Our shared story with Glenn and Laurel, and others like it on this blog, are just modern ‘signs’, as the above quote from the book of Mark predicted.
 
 Signs, the likes of which God has been leaving on people's paths for centuries, to help us navigate life and find truth. Find Him.
 
 So, why share it?
 
-Because I am convinced that <b>God wants us all to be sharing our stories, our signs, with each other</b> a lot more than has been our habit in these modern, sometimes discouraging times. Perhaps some of my ‘signs’ will be helpful for your own passage.
+<b> Because I want you to have faith and know God.</b> And part of that is us all sharing our stories with each other - a lot more than has become our habit in these modern, sometimes discouraging times. 
+
+Perhaps hearing how God has moved in my life will be helpful for your own passage.
 
 I know well the path of being one for whom faith does not come easily. Having worn out far more shoes on that path than should be necessary, my advice is this:
 
-<b><i>Dare to seek God. 
-Ask Him to reveal Himself to you - ask Him to help you see His many signs that you may be missing.
+<b><i>Dare to seek God. Don't be passive. Engage with him. Ask Him to reveal Himself to you - ask Him to help you see His many signs that you may be missing.
 
-He delights in delighting us and is 100% ok with our struggles and doubts as we stumble down this path called life.
+God delights in delighting us and is 100% ok with our struggles and doubts as we stumble down this path called life.
 
-Look for His signs.
+Engage, then watch for His signs.
 
 -Gerald (thus far)
