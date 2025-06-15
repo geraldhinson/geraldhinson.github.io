@@ -249,9 +249,9 @@ It is in that spirit that I share this crazy story about how <b><i>God used Laur
 
 I share it here <b> because I want you to have faith and to know God like we do.</b> And part of that is us all sharing our stories with each other - a lot more than has become our habit in these modern, sometimes discouraging times. 
 
-This experience became one of several 'anchors' in my and Jina's lives. Remembering it has given us courage when times have been hard.  It has helped us to <b>know with confidence</b> that God is with us every step of the way.
+This experience became one of numerous 'anchors' in my and Jina's lives - and such anchors are important because they remind us to have courage when times are hard.  They help us to deeply <b>know, with confidence, that God is with us</b> every step of the way.
 
-<b><i>Dare to seek God. Don't be passive. Engage with Him. Ask Him to reveal Himself to you - ask Him to help you see His many signs that you may be missing.
+><b><i>Dare to seek God. Don't be passive. Engage with Him. Ask Him to reveal Himself to you - ask Him to help you see His many signs that you may be missing.
 
 God delights in delighting us and is 100% ok with our struggles and doubts as we stumble down this path called life.
 
