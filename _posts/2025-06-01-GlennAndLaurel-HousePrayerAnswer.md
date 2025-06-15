@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Gene & Laurel - A Lesson about Signs
+title: Glenn & Laurel - A Lesson about Signs
 date: 2025-06-01 12:00:00
 description: Simple prayers can blow your mind
 tags: faith prayer
