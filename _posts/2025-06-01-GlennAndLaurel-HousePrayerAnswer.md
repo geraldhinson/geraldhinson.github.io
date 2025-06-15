@@ -291,7 +291,7 @@ Perhaps hearing how God has moved in my life will be helpful for your own passag
 
 I know well the path of being one for whom faith does not come easily. Having worn out far more shoes on that path than should be necessary, my advice is this:
 
-<b><i>Dare to seek God. Don't be passive. Engage with him. Ask Him to reveal Himself to you - ask Him to help you see His many signs that you may be missing.
+<b><i>Dare to seek God. Don't be passive. Engage with Him. Ask Him to reveal Himself to you - ask Him to help you see His many signs that you may be missing.
 
 God delights in delighting us and is 100% ok with our struggles and doubts as we stumble down this path called life.
 
