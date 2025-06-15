@@ -5,7 +5,7 @@ date: 2025-06-01 12:00:00
 description: Simple prayers can blow your mind
 tags: faith prayer
 categories: actual-posts
-thumbnail: assets/img/StephenKingPartialBookCover.png
+thumbnail: assets/img/rebelbird.jpg
 ---
 
 <i>(Note to the reader: the real names of my friends are not used herein)</i>
