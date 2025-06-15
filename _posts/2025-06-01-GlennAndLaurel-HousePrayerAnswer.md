@@ -178,34 +178,9 @@ I answered her, <b><i> “Because John and June are our next-door neighbors."</i
 
 Then continued with, "I need to tell you all something else. This afternoon, two, maybe three hours ago at most, I prayed and asked God if this was truly the house we were supposed to buy. I’ve been struggling with my long commute and having a lot of doubts about our purchase. I told Him it would help me immensely to know for sure that He had led us to this house.
 
-“Then you called with your park story and friend recommendation.
+“Then you called with your park story and friend recommendation."
 
-“What do you think the chances are that we would buy a house next to the only family you are close to in the Seattle area of 3 million people… and that you would have that crazy experience with Siu in a park that neither of you frequent… that you would both discover knowing us… and through that become aware that we had moved here… and then make this call with this crazy revelation?”
-
-Four minds completely blown.
-
-Do you want to know what it would feel like to be handed a missing puzzle piece in a random location... by someone you didn’t know... to a puzzle that your friends are actively working on... without your knowledge... in a place you didn’t think they would be... which happens to be one house away from…
-
-<i><b>I know exactly how that feels.</b></i>
-
-  
-
-Also, <b>would anyone like to do the math</b> on the combined probability of this series of ‘coincidences’? 
-
-Yeah, don’t bother. This was clearly (yet another) answer to prayer.
-
-><b><i>As I have written in other posts, when you pray, it is wise to pay close attention to the timing of things.</i></b>
-
-That random-feeling coincidence might not be random at all. Sometimes, as in Laurel’s (and Siu’s) case at the park, it is God intervening in our lives because He cares about us. Do you ever wonder how often He does this without us even noticing? I do.
-
-Another lesson?
-
-God commonly redeems (<i>read: uses later in powerful ways</i>) the hardest parts of our lives - <i>those times of greatest disappointment or sorrow or challenge</i> - in all sorts of beautiful ways.
-
-Sometimes for us.
-Sometimes for others. 
-Usually both. 
-What a gift!
+Result? Four minds completely blown.  
 
 After that mind-blowing phone call, guess what? 
 
@@ -225,69 +200,58 @@ Consider this summary of facts:
 -   How we found the house in the first place (me just driving around), that it  was an answer to all we had prayed for, and that it was our 3rd attempt to purchase
 -   The fact that the phone call from Laurel happened < 3 hours after my very specific prayer asking God to confirm if we had bought the right house
 
+<b>Would anyone like to do the math</b> on the combined probability of this series of ‘coincidences’? 
+
+Yeah, don’t bother. This was not an impossible coincidence. It was an answer to my prayer.
+
 Sometimes it feels like God is that parent saying, <b>“See it? No, there. No, there. No, there. Oh, for Pete’s sake!”</b> then grabbing their child’s head with both hands and forcing them to look at that big fat sign right in front of their noses.
 
 Thankfully, He is patient, and even we slow-learners can get a clue and stop missing the obvious.
 
+><b><i>One of the lessons I have learned is this: When you pray, it is wise to pay close attention to the timing of things.</i></b>
+
+That random-feeling coincidence might not be random at all. Sometimes, as in Laurel’s (and Siu’s) case at the park, it is God intervening in our lives because He cares about us. Do you ever wonder how often He does this without us even noticing? I do.
+
+Another lesson?
+
+God commonly redeems (<i>read: uses later in powerful ways</i>) the hardest parts of our lives - <i>those times of greatest disappointment or sorrow or challenge</i> - in all sorts of beautiful ways.
+
+Sometimes for us.
+Sometimes for others. 
+Usually both. 
+What a gift!
+
 ><b><i>God exists. 
 >He answers prayers. 
 >He cares about us, including the little details that we have been trained to think are not ‘spiritual’ in nature or worthy of his time. 
->He has left SO many signs showing us the path.
-
-During one of the darkest times in the history of the Jews, God spoke to them and said:  
-  
->"For I know the plans I have for you,” declares the Lord, “plans to prosper you and not to harm you, plans to give you hope and a future.  Then you will call on me and come and pray to me, and I will listen to you.  You will seek me and find me when you seek me with all your heart.”
-
-This specific passage was spoken to the Jewish nation. But don’t be confused by that. He loves ALL people groups.
-
-From the beginning, He has reached out to all people. Remember the stories of:
-
--   Jonah preaching to <b>Ninevah</b>, who (to his bigoted horror) repented of their evil
--   Elijah’s provision for the <b>Sidon</b> widow
--   Elisha helping Naaman from <b>Syria</b> (an enemy nation) be healed
--   Esther influencing the <b>Persian</b> king to save and protect her people
--   Baalam, the evil prophet whose donkey saw more clearly than he did (hired by the king of <b>Moab</b> to curse Israel)
--   Daniel influencing multiple kings of <b>Babylon</b>, one of whom publicly declared God as above all other gods to his entire kingdom
-
-God has made it clear from the beginning that He cares for <b>all people groups</b>, even in the Old Testament. Over and over, He has <b>chosen</b> people to place in strategic roles and situations, and caused specific events to occur on behalf of all people, regardless of their ancestry or pedigree.
+>He has left many signs showing us the path.
 
 Why?
 
-As powerful <b>signs</b> that He loves us, and so we will follow Him.
+So we will follow Him.
 
-Acts 17 - “His purpose was for the nations (<—PLURAL!) to seek after God and perhaps feel their way toward him and find him—though he is not far from any one of us.” 
+Acts 17 - “His purpose was for the nations to seek after God and perhaps feel their way toward him and find him—though he is not far from any one of us.” 
 
 I love that translation.. “<b>perhaps ‘feel’ their way toward him and find him</b>”. Doesn’t that perfectly describe us and our experience?
 
-Summarized:
-
-- The point of being chosen is NOT that you have been chosen. (It has never been about us.)
-- The point of being chosen is to BE a sign.
-
-A sign whose primary purpose is to guide travelers along a path toward a destination worth reaching. The true destination. Toward God.
-
-Despite mankind’s endless attempts to give being “chosen” a lofty, look-how-special-we-are meaning, that is the opposite of how God intended it. 
-
-><b><i>Signs are not destinations. People don’t travel thousands of miles just to stop at a sign outside their destination and take pictures of it.</i></b>
-
-Mark 16 - “and these **signs** shall follow those who believe”.
+Mark 16 says, “and these **signs** shall follow those who believe”.
 
 - Some signs help us drive and not get lost. Or, to become un-lost.
 - Some signs help us to live and not get lost. Or, to become un-lost.
 
-It is in that spirit that I share this crazy story about how <b><i>God used Laurel's simple desire to be a good mom for her kids to answer my depressed prayer</i></b> in an amazing way - a way that enriched all of our lives beautifully (and powerfully). This story is one of several 'anchors' in my and Jina's lives. Remembering it has given us confidence when times have been hard or discouraging.
+Those signs pointing us to God didn't stop happening in the 1st century.
 
-It is one of the reasons we <b>know</b> with great confidence that God is with us every step of the way.
-
-><b><i>Our shared story with Glenn and Laurel, and others like it on this blog, are just modern ‘signs’, as the above quote from the book of Mark predicted.
+><b><i>Our shared story with Glenn and Laurel is just a modern example of the ‘signs’ as predicted by Jesus in the book of Mark.
 
 Signs, the likes of which God has been leaving on people's paths for centuries, to help us navigate life and find truth. Find Him.
 
-So, why share it?
+It is in that spirit that I share this crazy story about how <b><i>God used Laurel's simple desire to be a good mom for her kids to answer my depressed prayer</i></b> in an amazing way - a way that enriched all of our lives beautifully (and powerfully). 
 
-<b> Because I want you to have faith and know God.</b> And part of that is us all sharing our stories with each other - a lot more than has become our habit in these modern, sometimes discouraging times. 
+I share it here <b> because I want you to have faith and to know God like we do.</b> And part of that is us all sharing our stories with each other - a lot more than has become our habit in these modern, sometimes discouraging times. 
 
-Perhaps hearing how God has moved in my life will be helpful for your own passage.
+This experience became one of several 'anchors' in my and Jina's lives. Remembering it has given us confidence when times have been hard or discouraging.  It has helped us to <b>know</b> with great confidence that God is with us every step of the way.
+
+Perhaps hearing how God has moved in our lives will be helpful for your own passage.
 
 I know well the path of being one for whom faith does not come easily. Having worn out far more shoes on that path than should be necessary, my advice is this:
 
