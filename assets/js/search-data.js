@@ -41,6 +41,17 @@ ninja.data = [{
             window.location.href = "/blog/2025/GlennAndLaurel-HousePrayerAnswer/";
           
         },
+      },{id: "post-bad-reviews-prayers-and-rollercoasters",
+        
+          title: "Bad Reviews, Prayers, and RollerCoasters",
+        
+        description: "The difference between being axed versus pruned",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/BadReviews-Prayers-AndRollerCoasters/";
+          
+        },
       },{id: "post-the-value-of-folklore",
         
           title: "The value of Folklore",
