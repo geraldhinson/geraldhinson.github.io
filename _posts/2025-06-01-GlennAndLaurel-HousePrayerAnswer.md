@@ -28,9 +28,10 @@ Glenn and Laurel moved out west somewhere after that, and in the busyness of lif
 
 At times, I wondered where they had landed and how they were doing. <i>(For you youngsters reading along, this was well before cell phones, text messaging, and social media. Staying connected back then required more effort.)</i>
 
-><b>That’s the backstory. Hold that thought for a moment and read on.</b>
+><b>That’s the backstory. Hold that thought, grab a coffee (always), and read on.</b>
 
-  
+<a href="/assets/img/CoffeeFirst.jpg" data-lightbox="coffee"><img src="/assets/img/CoffeeFirst.jpg" width="50%" height="50%" /></a>  
+
 
 A lot had happened in our lives since Glenn and Laurel had moved away.
 
@@ -94,6 +95,8 @@ It was a solid 45-minute drive both ways and more if anything went wrong in traf
 
 Left unattended, soon you have a full-blown garden of weeds choking the life out of everything good. (<i>Why the heck don’t the awesome plants grow like the weeds?</i>) Regardless, Jesus warned his followers about the weeds of life in one of his parables.
 
+<a href="/assets/img/weeds.jpg" data-lightbox="weeds"><img src="/assets/img/weeds.jpg" width="75%" height="75%" /></a>
+
 So, one Sunday afternoon, after reflecting honestly on the weed garden about to get completely out of control in my heart, I decided to pray about it. 
 
 I prayed alone because I didn’t want to drag Jina down into the pit of ingratitude with me (<i>a dumb decision, just being honest</i>). It was nothing fancy. I simply acknowledged the amazing provision and blessings we were living in, the many prayers already answered, and asked God to help me and my attitude in the midst of it all.
@@ -125,6 +128,8 @@ I was stunned. “Laurel? Whoa! How in the world? How did you find us? This numb
 She laughed and said with obvious excitement in her voice, “It wasn’t easy! <b>I’ve been trying to find your phone number for the last 2 days. You are not going to believe the story I have to tell you!</b>
 
 She continued, “Do you, by chance, know where the train park is in Kirkland?” 
+
+<a href="/assets/img/TrainPark.jpg" data-lightbox="park"><img src="/assets/img/TrainPark.jpg" width="75%" height="75%" /></a>
 
 ><b><i>I knew of exactly one park in the entire Seattle area - that one. It was quite literally the only park in the Seattle area that I would have recognized.</i></b>
 
@@ -201,6 +206,8 @@ Consider this summary of facts:
 -   The fact that the phone call from Laurel happened < 3 hours after my very specific prayer asking God to confirm if we had bought the right house
 
 <b>Would anyone like to do the math</b> on the combined probability of this series of ‘coincidences’? 
+
+<a href="/assets/img/ThatsImpossible.png" data-lightbox="luke"><img src="/assets/img/ThatsImpossible.png" width="75%" height="75%" /></a>
 
 Yeah, don’t bother. This was not an impossible coincidence. It was an answer to my prayer.
 

@@ -39,7 +39,6 @@ Insert image of an Arkansas opossum going 1:1 with a big semi on I-40 here. I wa
 
 <a href="/assets/img/OpossumAndTruck.png" data-lightbox="opossum"><img src="/assets/img/OpossumAndTruck.png" width="75%" height="75%" /></a>
 
-
 It was not that we were unaware of the dangers of big monopoly inertia. This was a telephone company after all. But sometimes you strive hard and try to be an agent of change anyway - and successes can give you false hopes when you desperately want to believe for a better future.
 
 Suddenly, I was maxed out in a dead-end career path and being pressured by my boss to make a career change. So, yes, that annual review put a big damper on our anniversary celebration.
@@ -164,6 +163,9 @@ For sure, our work and results mattered, but David’s external validation was t
 Having such a high-dollar consultant extol our work with words like <i>“way ahead of the industry and your competition”</i> was huge. Indeed, it was partly these successes that led to the establishment of the short-lived “technology career path” in which I had been invited to participate as a charter member.
 
 > We never saw the poison-tipped arrow coming.
+
+<a href="/assets/img/ArnoldShootsPredator.png" data-lightbox="opossum"><img src="/assets/img/ArnoldShootsPredator.png" width="75%" height="75%" /></a>
+
 
 If you’ve ever been a part of an exciting uprising bent on making big changes within a massive organization, then you probably know exactly which poison arrow I mean:
 
