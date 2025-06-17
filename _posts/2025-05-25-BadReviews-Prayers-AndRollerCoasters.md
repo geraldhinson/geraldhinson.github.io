@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Bad Reviews, Prayers, and RollerCoasters
+title: Bad Reviews, Prayers, and Roller Coasters
 date: 2025-05-25 12:00:00
-description: The difference between being axed versus pruned
+description: Am I being axed? Or, pruned?
 tags: faith prayer
 categories: actual-posts
 thumbnail: assets/img/rollercoaster.jpg
@@ -37,11 +37,7 @@ The final nail in the coffin occurred shortly after when we demoed a visionary i
 
 Insert image of an Arkansas opossum going 1:1 with a big semi on I-40 here. I was not the semi.
 
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/OpossumInRoad.png" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
+<a href="/assets/img/OpossumAndTruck.png" data-lightbox="opossum"><img src="/assets/img/OpossumAndTruck.png" width="75%" height="75%" /></a>
 
 
 It was not that we were unaware of the dangers of big monopoly inertia. This was a telephone company after all. But sometimes you strive hard and try to be an agent of change anyway - and successes can give you false hopes when you desperately want to believe for a better future.
