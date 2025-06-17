@@ -41,11 +41,11 @@ ninja.data = [{
             window.location.href = "/blog/2025/GlennAndLaurel-HousePrayerAnswer/";
           
         },
-      },{id: "post-bad-reviews-prayers-and-rollercoasters",
+      },{id: "post-bad-reviews-prayers-and-roller-coasters",
         
-          title: "Bad Reviews, Prayers, and RollerCoasters",
+          title: "Bad Reviews, Prayers, and Roller Coasters",
         
-        description: "The difference between being axed versus pruned",
+        description: "Am I being axed? Or, pruned?",
         section: "Posts",
         handler: () => {
           
