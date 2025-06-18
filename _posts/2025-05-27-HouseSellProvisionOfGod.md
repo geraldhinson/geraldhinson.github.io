@@ -82,7 +82,7 @@ He said, “We had this big <b>youth event planned for today that fell through</
 
 Completely dumbfounded, I think I muttered, “No way. You have got to be kidding me”, before happily accepting their offer.
 
-A few minutes later Jina returned home. If memory serves she had gone out to get some flowers and mulch to repair the flower bed.
+A few minutes later Jina returned home. If memory serves she had gone out to get some flowers and mulch to repair the flower bed. Her confused look transformed into a huge smile as I answered her question, "Why are Steve and the youth group here?"
 
 Steve then turned into a general contractor extraordinaire. Between him, Jina, me, and that amazing youth group, <b>we crossed things off of our to-do list in record time.</b> They mowed, they planted, they cleaned. They disassembled our heavy swing set in the backyard. And more. After they left Jina and I still pulled an all-nighter working our list until the next morning, barely finishing before our real-estate agent showed up to take over.
 
@@ -127,14 +127,14 @@ Per the forecast, the rain fell, and a good amount too.
 
 Unfortunately, the morning before it started, George came by to inspect my foundation hole depth and, <b>rather than lifting the plastic, he just poked a hole through it</b> so he could measure the depth. Thank God he was lazy and only checked one of them! I passed the inspection, then got to deal with a couple of inches of water in that foundation hole.
 
-So, you can imagine how ecstatic I was to hear that George would be doing the seller’s inspection of our house.
+So, you can imagine how ecstatic I was to hear that George would be doing the pre-sale inspection of our house.
 
 - My realtor told me to brace myself for bad news.
 - My neighbors told me the same.
 - Numerous friends who lived in our suburb piled on.
 - Numerous friends who worked in construction did as well.
 
-Everyone I knew who even knew <b>of</b> George predicted the same outcome.
+Everyone I knew who even <b>knew of</b> George predicted the same outcome.
 
 <b>George-news was bad news. That part of the legend was never left out in the telling.</b>
 
