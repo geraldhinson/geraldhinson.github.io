@@ -74,7 +74,7 @@ She wasn't wrong. The yard wasn't mowed. The flower bed alongside our brick walk
 
 I honestly don’t remember if I prayed at that point. But I had known from the start that we were in over our head.   Words like “I am trying to be faithful with all of this work, God, but you know this isn’t my wheelhouse” had been voiced well before this last-minute crisis. This wasn’t a case of procrastination.
 
-Given the deadline now faced, those earlier conversational prayers were feeling pretty hollow. Despite them, and working out butts off, the cold hard fact was that <b>We were 24 hours out from the big showing with far too much work left to do.</b>
+Given the deadline now faced, those earlier conversational prayers were feeling pretty hollow. Despite them, and working our butts off, the cold hard fact was that <b>we were 24 hours out from the big showing with far too much work left to do.</b>
 
 A few minutes later, someone knocked on my door.  I opened the door to find Steve, the youth pastor at our church, and the entire youth group standing there. I looked at him with confusion, having no idea why they were visiting me.
 
@@ -86,7 +86,7 @@ A few minutes later Jina returned home. If memory serves she had gone out to get
 
 Steve then turned into a general contractor extraordinaire. Between him, Jina, me, and that amazing youth group, <b>we crossed things off of our to-do list in record time.</b> They mowed, they planted, they cleaned. They disassembled our heavy swing set in the backyard. And more. After they left Jina and I still pulled an all-nighter working our list until the next morning, barely finishing before our real-estate agent showed up to take over.
 
-Their providential arrival that Saturday totally saved our bacon. We never would have made it - not even close - without the help of Steve and that amazing youth group. 
+The providential arrival of Steve and his army of youth volunteers that Saturday totally saved our bacon. We never would have made it - not even close - without their help. 
 
 We were relieved, humbled, and in awe. But, mostly, we were just thankful. 
 
