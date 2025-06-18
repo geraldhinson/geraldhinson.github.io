@@ -137,28 +137,28 @@ As part of my role, I enjoyed the privilege of speaking about our work at indust
 
 This was especially true the year before my depressing review, mostly due to being several years into our efforts and having begun to see some big payoffs.
 
-One of the individuals I met during those still-hopeful days was a writer named David.
+One of the individuals I met during those still-hopeful days was a consultant named Darren.
 
-David described himself thus:
+Darren described himself thus:
 > “I surf in Microsoft's wake. They create these over-complicated technologies that require a lot of explanation. I teach mere mortals how to understand and use their tech.” 
 
-David was himself a brilliant technologist who, before branching out as a consultant, had worked for one of the first companies to build supercomputers.
+Darren was himself a brilliant technologist who, before branching out as a consultant, had worked for one of the first companies to build supercomputers.
 
-I hired him to teach a class at Southwestern Bell on a new technology called ActiveX <i>(for you fellow computer jocks reading along, this was originally OLE, then ActiveX, then COM, then MTS, then COM+, then COR, then …)</i>. Microsoft had recently released ActiveX, and knowing that it overlapped somewhat with our in-house technology, I hired David to bring us up to speed on it.
+I hired him to teach a class at Southwestern Bell on a new technology called ActiveX <i>(for you fellow computer jocks reading along, this was originally OLE, then ActiveX, then COM, then MTS, then COM+, then COR, then …)</i>. Microsoft had recently released ActiveX, and knowing that it overlapped somewhat with our in-house technology, I hired Darren to bring us up to speed on it.
 
 Due to the breadth of his knowledge of the industry overall (versus just Microsoft), I also paid for an additional day of his time to allow my team to share an in-depth presentation on our proprietary software (the aforementioned ‘Datagate’), with the specific instruction, 
 
 >“Be brutal. Shoot holes in our architecture. Help us see what we have done wrong or missed. We are too close to it to be objective at this point.”
 
-That investment ultimately resulted in David volunteering to write a strategy paper for the senior leadership at Southwestern Bel - <b>a paper in which he informed them how unique and ahead of the industry our internal solution truly was.</b> The paper also pointed out that no alternative solution could be purchased that would run on the large variety of computers that Southwestern Bell had running across the company.
+That investment ultimately resulted in Darren volunteering to write a strategy paper for the senior leadership at Southwestern Bel - <b>a paper in which he informed them how unique and ahead of the industry our internal solution truly was.</b> The paper also pointed out that no alternative solution could be purchased that would run on the large variety of computers that Southwestern Bell had running across the company.
 
-<i>(The telephone companies of the time were sometimes described as “museums of computing - with one of everything. The reason we had named our project ‘Datagate’ was because it opened up gateways to share data between all of those disparate computer systems.)</i>
+<i>(The telephone companies of the time were sometimes described as "museums of computing" - with one of everything. The reason we had named our project ‘Datagate’ was because it opened up gateways to share data between all of those disparate computer systems.)</i>
 
 It was a fun time in my career.
 
 > We were doing meaningful technical work that was making a significant difference, and it was being recognized - utopia for an engineer with a penchant for business like me.
 
-For sure, our work and results mattered, but David’s external validation was timely.
+For sure, our work and results mattered, but Darren’s external validation was timely.
 
 Having such a high-dollar consultant extol our work with words like <i>“way ahead of the industry and your competition”</i> was huge. Indeed, it was partly these successes that led to the establishment of the short-lived “technology career path” in which I had been invited to participate as a charter member.
 
@@ -186,13 +186,13 @@ But, here's the deal:
 >
 > It often is.
 
-Shortly after Jina and I prayed, asking for guidance on our future, David, the consultant, called to inform me that he would be passing through town for other business and wanted to meet for lunch. At that lunch, he got right to the point.
+Shortly after Jina and I prayed, asking for guidance on our future, Darren, the consultant, called to inform me that he would be passing through town for other business and wanted to meet for lunch. At that lunch, he got right to the point.
 
 “I’ve been thinking about you, and I want to recommend you for a job. I know you are having fun here and doing impressive work that is appreciated, but I don’t think you belong here. You should be working for a software vendor where your work will have more impact and be rewarded/appreciated.”
 
 > Cue Gerald with his mouth hanging wide open.
 
-David had no idea how things had changed for me or that we had prayed. I gave him an update.
+Darren had no idea how things had changed for me or that we had prayed. I gave him an update.
 
 He replied “I don’t share your worldview, but no matter. The latest developments prove my point. You don’t belong here. If you agree, I want to recommend you for a job at Microsoft. I know many high-ranking people there. I’m sure I can get you into an interview loop.”
 
@@ -239,7 +239,7 @@ The first call and offer I had declined because it was inconsistent with my inte
 
 I felt a mix of relief and elation. <b>Finally! We were getting our answer.</b>
 
-The only thing weird about it all was the complete silence from Austin, given that this whole roller-coaster seemed to have begun with that unlikely encounter.
+The only thing weird about it all was the complete silence from Austin, given that this whole roller coaster seemed to have begun with that unlikely encounter.
 
 > You know that feeling that you get when you realize something weighty is about to happen?
 

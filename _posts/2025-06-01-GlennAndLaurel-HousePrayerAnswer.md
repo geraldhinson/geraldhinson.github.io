@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Glenn & Laurel - A Lesson about Signs
+title: House Stories - Signs of God's Provision (v2)
 date: 2025-06-01 12:00:00
-description: Simple prayers can blow your mind
+description: How far God goes to show He is with us!
 tags: faith prayer
 categories: actual-posts
 thumbnail: assets/img/rebelbird.jpg
@@ -10,9 +10,9 @@ thumbnail: assets/img/rebelbird.jpg
 
 <i>(Note to the reader: the real names of my friends are not used herein)</i>
 
-><b><i>“I’ve been trying to reach you for 2 days. You are not going to believe the story I have to share!”  
+><b><i>“I’ve been trying to reach you for 2 days. You are not going to believe the story I have to share!”</i></b>
 
-She had no idea how even more amazing that story was about to become!</i></b>
+She had no idea how even more amazing that story was about to become!
 
 ><b>Here is a bit of backstory for context:</b>
 
@@ -167,7 +167,7 @@ So we moved back out here and lived with my parents for about a year in Woodinvi
 
 “As we walked up to the door, we were greeted by a man and his wife who were just wonderful. <b>It was as if they could see right through us and could feel how badly we were hurting.</b> They took us to lunch that day and befriended us. Over the next year, we spent a lot of time with their family. <b>Their love helped us to heal and get back on our feet.</b>
 
-“So, after meeting Siu at the park and realizing you now live here, I just knew I had to call you to tell you about them. I have no idea where you and Jina live, but trust me, you need to meet this family. You will love them. Oh, and they have three daughters named Erin, Lauren, and…” <b><i>At this point, Jina’s eyes widened, and she finished Laurel’s sentence with “and Myca” with a tone of certainty.</i></b>
+“So, after meeting Siu at the park and realizing you now live here, I just knew I had to call you to tell you about them. I have no idea where you and Jina live, but trust me, you need to meet this family. You will love them. Oh, and they have three children named Erin, Laney, and…” <b><i>At this point, Jina’s eyes widened, and she finished Laurel’s sentence with “and Michael” with a tone of certainty.</i></b>
 
 ><b><i>In response to Jina’s interruption, Laurel gasped. “How do you know that?”</i></b>
 
