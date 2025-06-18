@@ -53,9 +53,11 @@ Some of the signs I recorded in that lost doc had to do with selling our house i
 ```
 House Prep
 ```
-The day before our open house showing *(when your real estate agent kicks you out of your own house so they can do their job)*, we were exhausted. 
+The day before our open house showing *(when your real estate agent kicks you out of your own house so they can do their job)*, we were exhausted. The last few weeks had been a continuous cycle of:
+- work as much as possible during the day while the kids (ages 5 and 2) were awake
+- work even more into the wee hours after putting them to bed
 
-We had been working around the clock for several weeks, painting, repairing, fixing, etc., to get the house ready to present. As the big Sunday approached, I remember thinking, 
+We had been pushing  hard for weeks, painting, repairing, fixing, etc., to get the house ready to present. As the big Sunday approached, I remember thinking, 
 
 ><b>“It is not humanly possible to get all of this done in time.”</b>
 
