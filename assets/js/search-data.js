@@ -30,15 +30,26 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/repositories/";
           },
-        },{id: "post-glenn-amp-laurel-a-lesson-about-signs",
+        },{id: "post-house-stories-signs-of-god-39-s-provision-v2",
         
-          title: "Glenn &amp; Laurel - A Lesson about Signs",
+          title: "House Stories - Signs of God&#39;s Provision (v2)",
         
-        description: "Simple prayers can blow your mind",
+        description: "How far God goes to show He is with us!",
         section: "Posts",
         handler: () => {
           
             window.location.href = "/blog/2025/GlennAndLaurel-HousePrayerAnswer/";
+          
+        },
+      },{id: "post-house-stories-signs-of-god-39-s-provision-v1",
+        
+          title: "House Stories - Signs of God&#39;s Provision (v1)",
+        
+        description: "Signs of Provision along the path",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/HouseSellProvisionOfGod/";
           
         },
       },{id: "post-bad-reviews-prayers-and-roller-coasters",
