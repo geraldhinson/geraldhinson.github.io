@@ -53,13 +53,13 @@ Some of the signs I recorded in that lost doc had to do with selling our house i
 ```
 House Prep
 ```
-The day before our open house showing *(when your real estate agent kicks you out of your own house so they can do their job)*, I was exhausted. 
+The day before our open house showing *(when your real estate agent kicks you out of your own house so they can do their job)*, we were exhausted. 
 
-I had been working around the clock for several weeks, painting, repairing, fixing, etc., to get the house ready to present. As the big Sunday approached, I remember thinking, 
+We had been working around the clock for several weeks, painting, repairing, fixing, etc., to get the house ready to present. As the big Sunday approached, I remember thinking, 
 
 ><b>“It is not humanly possible to get all of this done in time.”</b>
 
-Our agent swung by on the Saturday morning before and assured me that nothing left on my to-do list was optional if we wanted to present well. If memory serves, she even added an item or two to my list while she was there. She commented unhappily as she left, <b>“I don’t see how you can possibly be ready for this open house tomorrow”.</b>
+Our agent swung by on the Saturday morning before and assured me that nothing left on our to-do list was optional if we wanted to present well. If memory serves, she even added an item or two to my list while she was there. She commented unhappily as she left, <b>“I don’t see how you can possibly be ready for this open house tomorrow”.</b>
 
 My reaction was the same as that of the great theologian, Tony Stark, when he said, 
 ><b>"Yeah, I detected that too.” </b>*(true Marvel fans will know this reference…)*
@@ -68,11 +68,11 @@ My reaction was the same as that of the great theologian, Tony Stark, when he sa
 
 After she left, I returned to my slog. 
 
-She was right. Finishing in time was an impossibility. 
+She wasn't wrong. The yard wasn't mowed. The flower bed alongside our brick walk leading to the front door was a mess. Inside the house we were in the midst of painting, cleaning, etc. with signs of our in-progress work everywhere.  The place was a mess and finishing in time was an impossibility. 
 
-I honestly don’t remember if I prayed at that point. But I had known from the start that I was in over my head.   Words like “I am trying to be faithful with all of this work, God, but you know this isn’t my wheelhouse” had been voiced well before this last-minute crisis. This wasn’t a case of procrastination.
+I honestly don’t remember if I prayed at that point. But I had known from the start that we were in over our head.   Words like “I am trying to be faithful with all of this work, God, but you know this isn’t my wheelhouse” had been voiced well before this last-minute crisis. This wasn’t a case of procrastination.
 
-Given the deadline I now faced, those earlier conversational prayers were feeling pretty hollow. Despite them, and working my butt off, the cold hard fact was that <b>I was 24 hours out from the big showing with far too much work left to do.</b>
+Given the deadline now faced, those earlier conversational prayers were feeling pretty hollow. Despite them, and working out butts off, the cold hard fact was that <b>We were 24 hours out from the big showing with far too much work left to do.</b>
 
 A few minutes later, someone knocked on my door.  I opened the door to find Steve, the youth pastor at our church, and the entire youth group standing there. I looked at him with confusion, having no idea why they were visiting me.
 
@@ -80,15 +80,19 @@ He said, “We had this big <b>youth event planned for today that fell through</
 
 Completely dumbfounded, I think I muttered, “No way. You have got to be kidding me”, before happily accepting their offer.
 
-Steve then turned into a general contractor extraordinaire. Between him, me, and that amazing youth group, <b>not a single item remained on my to-do list a few hours later.</b> They saved my bacon and with time to spare. I was relieved, humbled, and in awe.
+A few minutes later Jina returned home. If memory serves she had gone out to get some flowers and mulch to repair the flower bed.
 
-But, mostly, I was just thankful. 
+Steve then turned into a general contractor extraordinaire. Between him, Jina, me, and that amazing youth group, <b>we crossed things off of our to-do list in record time.</b> They mowed, they planted, they cleaned. They disassembled our heavy swing set in the backyard. And more. After they left Jina and I still pulled an all-nighter working our list until the next morning, barely finishing before our real-estate agent showed up to take over.
 
-><b>I felt seen and cared for.</b>
+Their providential arrival that Saturday totally saved our bacon. We never would have made it - not even close - without the help of Steve and that amazing youth group. 
+
+We were relieved, humbled, and in awe. But, mostly, we were just thankful. 
+
+><b>We felt seen and cared for.</b>
 
 My next conversation with God was one of confession - I asked forgiveness for my never-ending doubts about His provision and vowed to do better.
 
-The following morning, when the real estate agent arrived, she looked at me in total shock and said, <b>“How?”</b> I think I let her think I was just that amazing for a few moments before telling her the truth. :)
+The following morning, when the real estate agent arrived, she looked at us in total shock and said, <b>“How?”</b> I think I let her think we were just that amazing for a few moments before telling her the truth. :)
   
 ```
 House Inspection
