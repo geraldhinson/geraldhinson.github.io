@@ -12,8 +12,8 @@ A lesson on holistic engineering from NASA and Margaret Hamilton - circa 1969.
 
 Excerpted from a Smithsonian article:
 
->Over time, Hamilton began to view the whole mission as a system:\
---- “part is realized as software, part is peopleware, part is hardware.”
+> Over time, Hamilton began to view the whole mission as a system:\
+> --- “part is realized as software, part is peopleware, part is hardware.”
 
 In a bid to make software more reliable, [Margaret] Hamilton sought to design Apollo’s software to be capable of dealing with unknown problems and flexible enough to interrupt one task to take on a more important one. In her search for new ways to debug a system, she realized that sound could serve as an error detector. Her program at SAGE, she noted, sounded like a seashore when it was running. Once, she was awakened by a colleague, who said that her program “no longer sounded like a seashore!” She rushed into work eager to find the problem and to start applying this new form of debugging to her work.
 
@@ -25,9 +25,10 @@ A lot has changed since the days of Margaret applying her genius to our craft: F
 
 But, none of that has altered the basic principle that has always been true:
 
->Great engineering happens when engineers deeply understand and build for the entire picture.
+> Great engineering happens when engineers deeply understand and build for the entire picture.
 
 (Check out this great interview for more on Margaret.)
+
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include video.liquid path="https://www.youtube.com/embed/kTn56jJW4zY" class="img-fluid rounded z-depth-1" %}

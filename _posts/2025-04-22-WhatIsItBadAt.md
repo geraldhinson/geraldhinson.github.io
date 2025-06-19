@@ -10,11 +10,11 @@ thumbnail: assets/img/BenAffleckOnAI.png
 
 Ben Affleck 'gets' AI. Great perspective in the video below.
 
-With technology, it is often more important to consider what the new thing *doesn't* do well or where the experience is lossy in ways that matter.
+With technology, it is often more important to consider what the new thing _doesn't_ do well or where the experience is lossy in ways that matter.
 
 The AI tech (and hype) reminds me a lot of the <b>transistor revolution that was predicted to replace the tube amps</b> used (and loved) by guitar players. <b>Didn't happen</b>. Then, digital modeling was going to replace tube amps. <b>Didn't happen</b>. Then came the digital captures and impulse responses that would replace tube amps. <b>Still didn't happen</b>.
 
-Why? 
+Why?
 
 Because the experience of hearing and feeling sound as it is amplified by tubes and moves through air is a big deal to guitar players. It is part of the experience and is impossible to mimic cost-effectively (some would say 'at all') with non-tube technology.
 
@@ -22,15 +22,16 @@ But, what did happen was that <b>digital technology became one of the tools used
 
 Contrast that to televisions where tubes were replaced in short order with virtually no one clinging to the past.
 
-Again, why? 
+Again, why?
 
 Because, unlike guitar amps, <b>the tube component added nothing to the experience worth clinging to in TVs.</b> Further, tube technology did (does) have serious downsides, including heat, weight, replacement costs/headaches, etc.
 
-So, as stated above: 
+So, as stated above:
 
->With technology, it is often more important to consider what the new shiny object *doesn't* do well or where the experience is lossy in ways that matter.
+> With technology, it is often more important to consider what the new shiny object _doesn't_ do well or where the experience is lossy in ways that matter.
 
 (Ben laying down some truth on AI. He gets it better than most in the tech industry!)
+
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include video.liquid path="https://www.youtube.com/embed/ypURoMU3P3U" class="img-fluid rounded z-depth-1" %}

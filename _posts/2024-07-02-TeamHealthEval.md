@@ -14,12 +14,12 @@ A shared observation from that discussion was how similar this task is to doing 
 
 Perhaps surprisingly for some, <b>the specifics of what tech stack, tools, cloud, processes, etc. are used are rarely a first-order concern.</b> Why? Because there are countless ways to solve problems with the specific recipe for success being as individual as the org itself.
 
->The classic M&A reasons for buying an org are to get:\
---the product, the customers, or the talent. 
+> The classic M&A reasons for buying an org are to get:\
+> --the product, the customers, or the talent.
 
-Or, some combo of the 3. 
+Or, some combo of the 3.
 
->Those same areas of focus can be great for measuring (ongoing) org health. 
+> Those same areas of focus can be great for measuring (ongoing) org health.
 
 For example:
 
@@ -35,6 +35,7 @@ Do they exist already or not? If not, is there a credible study showing product 
 Reality - I've rarely seen even a profitable org nail all of these (top of mind) examples and that is OK. Of more interest (always) is <b>whether an org has the health to grow and address challenges as they arise.</b>
 
 <b>(Though often seen this is not, in fact, the goal)</b>
+
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/TeamsSarcasm.png" class="img-fluid rounded z-depth-1" %}

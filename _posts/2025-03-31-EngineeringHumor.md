@@ -16,4 +16,4 @@ But, given all of that investment, what could be more fun than a contest to see 
 
 And with that bit of preamble, I present to you this hilarious misuse of great engineering talent - which I 100% support and only regret not being a participant!
 
-Enjoy! <a href="https://www.instagram.com/p/DEpPEOypbup/">Worst Volume Control - The Contest!</a> 
+Enjoy! <a href="https://www.instagram.com/p/DEpPEOypbup/">Worst Volume Control - The Contest!</a>

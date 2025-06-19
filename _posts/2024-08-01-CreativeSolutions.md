@@ -8,9 +8,9 @@ categories: actual-posts
 thumbnail: assets/img/HackedThermometer.jpeg
 ---
 
-A dead thermometer battery and closed stores. 
+A dead thermometer battery and closed stores.
 
-Solution: A wrong sized battery, scotch tape, a left over banana clip wire, and a twisty tie from a loaf of bread for the second wire. 
+Solution: A wrong sized battery, scotch tape, a left over banana clip wire, and a twisty tie from a loaf of bread for the second wire.
 
 It worked.
 
@@ -26,11 +26,11 @@ OR
 - grit?
 - a behavior that you want your teams to manifest?
 
-I've had teams that just gave up when they lacked 'enough' time or resources. 
+I've had teams that just gave up when they lacked 'enough' time or resources.
 I've also had teams that refused to give up or be defeated at any cost.
 
 The latter can change the world and sometimes they do, especially if their leadership appreciates and praises their values.
- 
+
 But, don't forget to buy them more batteries too. (ie. Give them time/resources to fix the short-term hacks once past the crisis. No one wants to live long-term with hacks, especially a great engineering team.)
 
 <div class="row mt-3">

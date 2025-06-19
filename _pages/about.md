@@ -23,15 +23,16 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+
 <a href='https://linkedin.com/in/geraldhinson'> Gerald Hinson @ LinkedIn</a>
 
 (NOTE: if you are seeing this 'NOTE' this website is still under heavy construction.)
 
-This personal website coughed to life like a neglected V8 engine for several reasons. 
+This personal website coughed to life like a neglected V8 engine for several reasons.
 
 Partly to provide a place to write biz/tech posts longer than LinkedIn allows. Partly as a forward link destination from other sites that vary greatly in terms of format & content supported.
 
-But, mostly to be a <b>single location for <sup>(1)</sup>ruminations on the topics that matter most to me (and perhaps to you?). Things like: <b>faith, family, technology, leadership, guitar, coffee, sailing</b>, and, of course, the (successful) pursuit of the <b>perfect biscuit!</b> My life thus far has been an endless fixation on the things in that list. 
+But, mostly to be a <b>single location for <sup>(1)</sup>ruminations on the topics that matter most to me (and perhaps to you?). Things like: <b>faith, family, technology, leadership, guitar, coffee, sailing</b>, and, of course, the (successful) pursuit of the <b>perfect biscuit!</b> My life thus far has been an endless fixation on the things in that list.
 
 But, as the title above implies, I am still learning.
 
@@ -43,14 +44,13 @@ That said, if you find of interest:
 
 OR
 
-If you likewise find occasion to build <b>back-end services</b>, you may be here for <b>Siftd</b> - the <em>(WARNING: adjective abuse ahead)</em> open-source, data-center agnostic, <b>journaled-microservice</b> framework for building simple backends that scale. 
+If you likewise find occasion to build <b>back-end services</b>, you may be here for <b>Siftd</b> - the <em>(WARNING: adjective abuse ahead)</em> open-source, data-center agnostic, <b>journaled-microservice</b> framework for building simple backends that scale.
 
 Regardless, poke around a bit.
 
 You are welcome here.
 
 <sup>(1) Ruminations - high-dollar word meaning 'to chew the cud'. Moo!</sup>
-
 
 <!--
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.

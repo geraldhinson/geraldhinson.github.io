@@ -10,12 +10,11 @@ thumbnail: assets/img/rollercoaster.jpg
 
 <i>(Note to the reader: the real names of my friends are not used herein)</i>
 
-
 > It was the night of our 10th anniversary. It should have been a happy occasion,
 >
-> It wasn’t. 
+> It wasn’t.
 >
->I was depressed. Really depressed.
+> I was depressed. Really depressed.
 
 Earlier that day, my boss and I had met for my yearly review. For the second year in a row, he had said, <b>“Listen, Gerald. There is simply nowhere left to go in your career as a technologist here. You need to face this and embrace becoming a telco executive.”</b> (“Telco’ is short for telephone company.)
 
@@ -31,9 +30,9 @@ I had naively thought (hoped) that the value of our work would be recognized and
 
 In typical corporate fashion, the executives did not connect the (to me so obvious) dots. They rewarded our innovation and $50 million cost savings by completely canceling the technology career path, and along with it, my career hopes.
 
-The final nail in the coffin occurred shortly after when we demoed a visionary internet-based telephone (think WIFI-calling like on your cell-phone, but working back in the mid 1990s). Our leadership’s response? 
+The final nail in the coffin occurred shortly after when we demoed a visionary internet-based telephone (think WIFI-calling like on your cell-phone, but working back in the mid 1990s). Our leadership’s response?
 
-> They dismissively reminded us of their explicit corporate strategy tenet that stated: <b>“Never be first at anything.”</b> 
+> They dismissively reminded us of their explicit corporate strategy tenet that stated: <b>“Never be first at anything.”</b>
 
 Insert image of an Arkansas opossum going 1:1 with a big semi on I-40 here. I was not the semi.
 
@@ -69,13 +68,13 @@ At this point, I was thinking, “Oh, c’mon lady, what is your deal? This is r
 
 The Southwestern Bell headquarters was located in two high-rise buildings in downtown St. Louis, one with 43 floors and the other about half that size. In that location alone, roughly 15,000 people worked, not to mention the many other locations spread across 6 states.
 
-“(Do you know) … Dylan ____?” she finished.
+“(Do you know) … Dylan \_\_\_\_?” she finished.
 
 Boom!
 
 The conclusion of her question instantly became a
 
->REPLACE-ALL ‘irritation’ with ‘stupefaction’
+> REPLACE-ALL ‘irritation’ with ‘stupefaction’
 
 command on my mental state.
 
@@ -89,9 +88,9 @@ She then said, “Wow, that is amazing. And, Datagate is amazing. I am from Aust
 
 At that point, my shuttle arrived. As I was about to walk away, she handed me her name and number scrawled hastily on a piece of paper with a final comment, “I’m serious about what I said. Call me if it is of interest.”.
 
-I looked at my watch. 
+I looked at my watch.
 
->It had been barely 12 hours since Jina and I had prayed. 
+> It had been barely 12 hours since Jina and I had prayed.
 
 In that prayer, we had specifically <b>asked God if we should consider moving to Austin</b> since it would place us within driving distance of both sides of the family.
 
@@ -111,9 +110,9 @@ Jina and I were easily united on this because:
 
 - Jina and I wanted to be very present with each other and our growing family. A job constantly pulling me away on trips conflicted with that.
 
-We waited for the promised call from Austin. 
+We waited for the promised call from Austin.
 
-Days passed. Then weeks. 
+Days passed. Then weeks.
 
 > No call came. As they say in the South, it was ‘crickets’.
 
@@ -140,17 +139,18 @@ This was especially true the year before my depressing review, mostly due to bei
 One of the individuals I met during those still-hopeful days was a consultant named Darren.
 
 Darren described himself thus:
-> “I surf in Microsoft's wake. They create these over-complicated technologies that require a lot of explanation. I teach mere mortals how to understand and use their tech.” 
+
+> “I surf in Microsoft's wake. They create these over-complicated technologies that require a lot of explanation. I teach mere mortals how to understand and use their tech.”
 
 Darren was himself a brilliant technologist who, before branching out as a consultant, had worked for one of the first companies to build supercomputers.
 
 I hired him to teach a class at Southwestern Bell on a new technology called ActiveX <i>(for you fellow computer jocks reading along, this was originally OLE, then ActiveX, then COM, then MTS, then COM+, then COR, then …)</i>. Microsoft had recently released ActiveX, and knowing that it overlapped somewhat with our in-house technology, I hired Darren to bring us up to speed on it.
 
-Due to the breadth of his knowledge of the industry overall (versus just Microsoft), I also paid for an additional day of his time to allow my team to share an in-depth presentation on our proprietary software (the aforementioned ‘Datagate’), with the specific instruction, 
+Due to the breadth of his knowledge of the industry overall (versus just Microsoft), I also paid for an additional day of his time to allow my team to share an in-depth presentation on our proprietary software (the aforementioned ‘Datagate’), with the specific instruction,
 
->“Be brutal. Shoot holes in our architecture. Help us see what we have done wrong or missed. We are too close to it to be objective at this point.”
+> “Be brutal. Shoot holes in our architecture. Help us see what we have done wrong or missed. We are too close to it to be objective at this point.”
 
-That investment ultimately resulted in Darren volunteering to write a strategy paper for the senior leadership at Southwestern Bel - <b>a paper in which he informed them how unique and ahead of the industry our internal solution truly was.</b> The paper also pointed out that no alternative solution could be purchased that would run on the large variety of computers that Southwestern Bell had running across the company.
+That investment ultimately resulted in Darren volunteering to write a strategy paper for the senior leadership at Southwestern Bell - <b>a paper in which he informed them how unique and ahead of the industry our internal solution truly was.</b> The paper also pointed out that no alternative solution could be purchased that would run on the large variety of computers that Southwestern Bell had running across the company.
 
 <i>(The telephone companies of the time were sometimes described as "museums of computing" - with one of everything. The reason we had named our project ‘Datagate’ was because it opened up gateways to share data between all of those disparate computer systems.)</i>
 
@@ -166,7 +166,6 @@ Having such a high-dollar consultant extol our work with words like <i>“way ah
 
 <a href="/assets/img/ArnoldShootsPredator.png" data-lightbox="opossum"><img src="/assets/img/ArnoldShootsPredator.png" width="75%" height="75%" /></a>
 
-
 If you’ve ever been a part of an exciting uprising bent on making big changes within a massive organization, then you probably know exactly which poison arrow I mean:
 
 <b><i>The dreaded reorg.</i></b>
@@ -180,9 +179,9 @@ After years of hard work and success, all it took was one corporate reorg to fin
 But, here's the deal:
 
 > What to me felt like the tree being axed was not that at all.
-> 
-> It was a pruning of the tree. 
-> Not that pruning isn’t painful. 
+>
+> It was a pruning of the tree.
+> Not that pruning isn’t painful.
 >
 > It often is.
 
@@ -202,7 +201,7 @@ I was blown away and, if I’m honest, a bit unnerved.
 
 A move to the West Coast versus somewhere closer (hopefully Austin or Dallas) was not on our radar.
 
-That said, we knew that living out her statement of faith,<b><i>“If God wants us to move, then we should move</i>”, included letting go of any personal agenda for *how* our prayer might get answered</b>. I’m pretty sure moving out of Ur was not how Abraham saw his life going either.
+That said, we knew that living out her statement of faith,<b><i>“If God wants us to move, then we should move</i>”, included letting go of any personal agenda for _how_ our prayer might get answered</b>. I’m pretty sure moving out of Ur was not how Abraham saw his life going either.
 
 A lot more happened over the next couple of months. Because of his generous recommendation, I was invited to interview at Microsoft, ultimately for three different teams. Two of them offered me a job. I was also offered a CTO position by a San Francisco-based company that reached out unsolicited based on conference presentations I had done.
 
@@ -214,8 +213,8 @@ It just kept not happening, even after I followed up twice more with cheery airp
 
 So we prayed about the opportunities that did come.
 
-- Which, if any, should we accept? 
-- Should we keep waiting for the promised call from Austin, especially given this was where both sides of our families wanted us to land? 
+- Which, if any, should we accept?
+- Should we keep waiting for the promised call from Austin, especially given this was where both sides of our families wanted us to land?
 
 Moving to the West Coast would assuredly limit the amount of time we could spend with family. What was the right call?
 
@@ -225,15 +224,15 @@ Our families were not excited (to say the least) about us moving to the West Coa
 
 We did not see that coming.
 
->Parents *never* want their kids to move far away. As a parent, I completely relate.
+> Parents _never_ want their kids to move far away. As a parent, I completely relate.
 >
->Add to that 'The Very Idea!' of moving out of “The South”.
+> Add to that 'The Very Idea!' of moving out of “The South”.
 >
->On that topic, I’ll just say, IYKYK. (translation for the texting impaired - “If you know, you know.”)
+> On that topic, I’ll just say, IYKYK. (translation for the texting impaired - “If you know, you know.”)
 
 Shortly after my parents’ unexpected blessing, I got “the call” from Microsoft. I was at work and unable to talk freely in the open cubicles and listening ears, so I went downstairs to use a more private phone.
 
-Microsoft called twice. This was the second call. 
+Microsoft called twice. This was the second call.
 
 The first call and offer I had declined because it was inconsistent with my interview. But on this call, the role and offer had been corrected and matched what Jina and I felt we needed to hear. I accepted it and took the elevator back upstairs.
 
@@ -245,7 +244,7 @@ The only thing weird about it all was the complete silence from Austin, given th
 
 Yeah.
 
-As I arrived at my desk, I had one of *those* feelings.
+As I arrived at my desk, I had one of _those_ feelings.
 
 I felt it the moment I saw the little light on my desk phone indicating that someone had left me a voicemail. It wasn’t particularly unlikely to have a voicemail. But, somehow I just knew <b>something big was happening. I could feel it with an unnatural certainty</b>. Those of you who have walked with God more than a few miles probably know exactly the feeling to which I refer.
 
@@ -255,7 +254,7 @@ Yep, you guessed it. The guy from Austin, whom I had been waiting to hear from f
 
 So, back down the elevator I went to that same private phone to return his call. I was shaking my head on that elevator ride, saying things like, <b>“Really, God? Is this seriously happening? Why now? What are you doing?”</b>
 
-I dialed the phone. The voice on the other end opened with, “Hey, Gerald. I apologize for taking so long to call. I've been meaning to call for weeks and am finally getting around to it.” Followed by, “We have an exciting opening for a *traveling consultant* role that I would like to discuss with you.
+I dialed the phone. The voice on the other end opened with, “Hey, Gerald. I apologize for taking so long to call. I've been meaning to call for weeks and am finally getting around to it.” Followed by, “We have an exciting opening for a _traveling consultant_ role that I would like to discuss with you.
 
 > A “Traveling Consultant” role.
 
@@ -277,33 +276,33 @@ Keep praying and pay attention!
 
 Oh, and about that odd Austin connection:
 
--   The original encounter with cheery airport woman
--   Her unlikely knowledge of both my work and my partner
--   Her pushy offer to facilitate my entry into the Austin tech market
--   The promised-soon and ever-delayed call
--   The crazy timing of the Austin call when it finally occurred - 3 months delayed and at the exact moment I was on the phone accepting the Microsoft job
--   The two-word job description that was the perfect “definitely not that” match
+- The original encounter with cheery airport woman
+- Her unlikely knowledge of both my work and my partner
+- Her pushy offer to facilitate my entry into the Austin tech market
+- The promised-soon and ever-delayed call
+- The crazy timing of the Austin call when it finally occurred - 3 months delayed and at the exact moment I was on the phone accepting the Microsoft job
+- The two-word job description that was the perfect “definitely not that” match
 
 Living through those details, then sharing them with our families, convinced us all that it was 100% not in God’s plan for our little family to move to Texas, as had been discussed and hoped for for over 10 years. <i>Note that I did not say that folks were particularly happy about that turn of events. ;)</i>
 
-Had all of that <b>*not*</b> happened, there would have been questions and, likely, some resentment over a decision to move to Seattle.
+Had all of that <b>_not_</b> happened, there would have been questions and, likely, some resentment over a decision to move to Seattle.
 
 <b>What a huge blessing to be given such a definitive answer that sidestepped potential second-guessing and unpleasantness with those we hold so dear.</b>
 
 In addition to that blessing, the encounter with cheery airport lady also:
 
--   Jumpstarted home improvements needed to sell our house. (And not a moment too soon, as I have recorded in a separate blog post.)
--   Gave us peace and courage for the roller coaster ride that we were boarding - and full confidence that it was God who had put us on that roller coaster versus actions of our own
+- Jumpstarted home improvements needed to sell our house. (And not a moment too soon, as I have recorded in a separate blog post.)
+- Gave us peace and courage for the roller coaster ride that we were boarding - and full confidence that it was God who had put us on that roller coaster versus actions of our own
 
-Lesson learned? 
+Lesson learned?
 
 Among others, one valuable takeaway was this:
 
->Some answers to prayers are initially confusing.
+> Some answers to prayers are initially confusing.
 >
->When that happens, don’t jump off. Just hang on for the ride. 
+> When that happens, don’t jump off. Just hang on for the ride.
 >
->We don’t need to understand it all as it happens, as long as God does.
+> We don’t need to understand it all as it happens, as long as God does.
 
 That is why it is called “faith”.
 

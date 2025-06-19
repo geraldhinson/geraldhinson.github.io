@@ -12,7 +12,7 @@ That extra bit of effort to show that your company is not just going through the
 
 Not once in my career have I heard someone share a regret for such.
 
-Make time for it. 
+Make time for it.
 
 It always matters.
 

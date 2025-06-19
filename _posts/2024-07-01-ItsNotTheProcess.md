@@ -17,11 +17,11 @@ Wisdom.
 That team that is consistently failing to deliver on both product and quality? The team that has the highest "agile dojo" rating in the company and is being celebrated by the process gurus? Whose manager is known as the easiest to work for?\
 --- That team needs a reset.
 
-Or, that frustrated engineering team that is being terrorized by 
+Or, that frustrated engineering team that is being terrorized by
 agile specialists whose expertise is only process? Who is being asked to celebrate 'shipping points' while the product is failing hard with customers?\
 --- That engineering team needs rescuing.
 
->When process is king, the kingdom dies.
+> When process is king, the kingdom dies.
 
 It is always about having <b><i>the right people on a shared crusade they all deeply believe in</i></b>, not the process. Making this reality is what leadership is all about.
 

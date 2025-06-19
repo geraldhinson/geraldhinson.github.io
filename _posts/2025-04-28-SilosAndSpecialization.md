@@ -14,9 +14,9 @@ I am a huge fan of product teams that build products via the combination of:
 - beautiful design
 - well-built software (and/or hardware)
 
-Let me say that differently and more directly -- <b><i>Great products do not occur without all three of these areas being done well.</i></b> 
+Let me say that differently and more directly -- <b><i>Great products do not occur without all three of these areas being done well.</i></b>
 
-Yet I routinely see 'product engineering' (or whatever you want to call the combination of all three) being done with only 1 or 2 legs of that 3-legged chair. 
+Yet I routinely see 'product engineering' (or whatever you want to call the combination of all three) being done with only 1 or 2 legs of that 3-legged chair.
 
 It is also a fact that all three areas are deep 'rabbit holes' that can be explored about as deeply as one cares to venture (which can be fun!).
 
@@ -24,33 +24,33 @@ That realization has led many to settle into roles (and orgs) that reinforce the
 
 This is a HUGE mistake.
 
-The separate lanes mentality was not always the case and is a viewpoint that sucks success from both products and those who build them. There was a time when most thought that being great at creating products *required* mastery of all three disciplines - and that individuals should strive for this! 
+The separate lanes mentality was not always the case and is a viewpoint that sucks success from both products and those who build them. There was a time when most thought that being great at creating products _required_ mastery of all three disciplines - and that individuals should strive for this!
 
-Reality? 
+Reality?
 
-Teams characterized by one-dimensional members seldom create greatness. And it is almost impossible to be truly great at any of the three without being pretty versed in the other two. The overlap is part of the magic. This reality characterizes the greatest designers, PMs, and software engineers I have known during my career. 
+Teams characterized by one-dimensional members seldom create greatness. And it is almost impossible to be truly great at any of the three without being pretty versed in the other two. The overlap is part of the magic. This reality characterizes the greatest designers, PMs, and software engineers I have known during my career.
 
->So, why don't we encourage and train our employees in this diversity anymore?
+> So, why don't we encourage and train our employees in this diversity anymore?
 
 We used to. Somehow, we convinced ourselves that specialization made broader expertise unnecessary. This may be good for companies but it probably isn't for you. Layoffs often begin with "Can we get by without paying a salary just for that?"
 
->Expertise *is* -- How 'expert' or competent someone is at a given skill.
->Expertise *is not* -- A 'role' or a 'career path' even when/if businesses will pay for only that. 
+> Expertise _is_ -- How 'expert' or competent someone is at a given skill.
+> Expertise _is not_ -- A 'role' or a 'career path' even when/if businesses will pay for only that.
 
 Whether businesses or recruiters understand this, we as individuals seeking stable and inspiring employment should internalize it - and deeply.
 
 Professionally, the more expertise you have, the more valuable you are, especially in hard times when salary budgets are thin. Like when over 1/2 a million people have been laid off. Like now.
 
->So, embrace your inner Leonardo a bit more (da Vinci, not the turtle). 
->-Study the adjacent disciplines 
->-Diversify your skill set
+> So, embrace your inner Leonardo a bit more (da Vinci, not the turtle).
+> -Study the adjacent disciplines
+> -Diversify your skill set
 
 There is no reason to limit what you can achieve all by yourself. The time may come (and does) when you have no other choice.
 
-You will enjoy your job more. 
+You will enjoy your job more.
 You will become more valuable.
 
-The irony? You also have more success with the "stay-in-your-lane" folks. 
+The irony? You also have more success with the "stay-in-your-lane" folks.
 
 But, the next time management decides they cannot afford everyone, guess who they will keep?
 
