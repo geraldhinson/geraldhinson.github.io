@@ -3,7 +3,7 @@ layout: post
 title: How healthy is your team?
 date: 2024-07-02 12:00:00
 description: Thoughts on initial 'e-value-ations'
-tags: leadership technology
+tags: leadership
 categories: actual-posts
 thumbnail: assets/img/TeamsSarcasm.png
 ---

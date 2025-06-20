@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /blog/
-title: full-blog
-description: thoughts on tech, faith, coffee, and other topics worthy of rumination
+permalink: /faith/
+title: faith
+description: the subset of my blog focused on faith, prayer, and God
 nav: true
 nav_order: 1
 pagination:
@@ -32,17 +32,17 @@ pagination:
   {% endif %}
 -->
 
+<!-- GLH - hack>
 {% if site.display_tags and site.display_tags.size > 0 or site.display_categories and site.display_categories.size > 0 %}
 
   <div class="tag-category-list">
     <ul class="p-0 m-0">
-      <div style="margin-bottom:0; padding:0"><i class="fa-solid fa-sm"></i> (You can use these tags to filter the posts below by category) </div>
       {% for tag in site.display_tags %}
-        <li style="margin-top:0; padding: 0px 0px 0px 0px;">
+        <li>
           <i class="fa-solid fa-hashtag fa-sm"></i> <a href="{{ tag | slugify | prepend: '/blog/tag/' | relative_url }}">{{ tag }}</a>
         </li>
         {% unless forloop.last %}
-          <p style="margin-top:0; padding: 6px 10px 6px 10px;">&bull;</p>
+          <p>&bull;</p>
         {% endunless %}
       {% endfor %}
       {% if site.display_categories.size > 0 and site.display_tags.size > 0 %}
@@ -59,6 +59,7 @@ pagination:
     </ul>
   </div>
   {% endif %}
+-->
 
 {% assign featured_posts = site.posts | where: "categories", "actual-posts"  | where: "featured", "true" %}
 {% if featured_posts.size > 0 %}
@@ -66,19 +67,19 @@ pagination:
 
 <div class="container featured-posts">
 {% assign is_even = featured_posts.size | modulo: 2 %}
-<div class="row row-cols-{% if featured_posts.size <= 2 or is_even == 0 %}2{% else %}3{% endif %}">
-{% for post in featured_posts %}
-<div class="col mb-4">
-<a href="{{ post.url | relative_url }}">
-<div class="card hoverable">
-<div class="row g-0">
-<div class="col-md-12">
-<div class="card-body">
-<div class="float-right">
-<i class="fa-solid fa-thumbtack fa-xs"></i>
-</div>
-<h3 class="card-title text-lowercase">{{ post.title }}</h3>
-<p class="card-text">{{ post.description }}</p>
+    <div class="row row-cols-{% if featured_posts.size <= 2 or is_even == 0 %}2{% else %}3{% endif %}">
+      {% for post in featured_posts %}
+        <div class="col mb-4">
+          <a href="{{ post.url | relative_url }}">
+          <div class="card hoverable">
+          <div class="row g-0">
+            <div class="col-md-12">
+              <div class="card-body">
+                <div class="float-right">
+                <i class="fa-solid fa-thumbtack fa-xs"></i>
+                  </div>
+                  <h3 class="card-title text-lowercase">{{ post.title }}</h3>
+                    <p class="card-text">{{ post.description }}</p>
 
                     {% if post.external_source == blank %}
                       {% assign read_time = post.content | number_of_words | divided_by: 180 | plus: 1 %}
@@ -108,9 +109,9 @@ pagination:
   <ul class="post-list">
 
     {% if page.pagination.enabled %}
-      {% assign postlist = paginator.posts | where: "categories", "actual-posts" %}
+      {% assign postlist = paginator.posts | where: "tags", "faith" %}
     {% else %}
-      {% assign postlist = site.posts | where: "categories", "actual-posts"  %}
+      {% assign postlist = site.posts | where: "tags", "faith"  %}
     {% endif %}
 
     {% for post in postlist %}

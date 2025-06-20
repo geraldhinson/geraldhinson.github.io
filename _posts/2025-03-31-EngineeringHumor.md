@@ -3,7 +3,7 @@ layout: post
 title: Engineers can be hilarious
 date: 2025-03-31 12:00:00
 description: Doing it wrong for fun and profit
-tags: leadership technology
+tags: technology
 categories: actual-posts
 thumbnail: assets/img/MartyMcFlyVolume.jpeg
 ---

@@ -3,7 +3,7 @@ layout: post
 title: It was NOT the process
 date: 2024-07-01 12:00:00
 description: Don't believe the lie
-tags: leadership technology
+tags: leadership
 categories: actual-posts
 thumbnail: assets/img/Processed.jpg
 ---

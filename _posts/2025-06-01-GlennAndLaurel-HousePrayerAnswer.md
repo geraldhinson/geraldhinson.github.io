@@ -163,7 +163,7 @@ I remember calling out to Jina so she could join the conversation, and I put Lau
 
 “You remember how our team fell apart in St. Louis? When we left there, we were devastated and felt completely lost.
 
-So we moved back out here and lived with my parents for about a year in Woodinville. Glenn found a job working in a local nursery, which was about a mile’s walk from my parents’ house. Every day, when walking to work, he passed a church building. He noticed it because the messages on their marquee weren’t cringy or cheesy like churches so often post.
+"So we moved back out here and lived with my parents for about a year in Woodinville. Glenn found a job working in a local nursery, which was about a mile’s walk from my parents’ house. Every day, when walking to work, he passed a church building. He noticed it because the messages on their marquee weren’t cringy or cheesy like churches so often post.
 
 “After several weeks of this, we decided to visit it even though we still felt very burned by all things ‘church’ after our disappointing experience in St. Louis.
 
