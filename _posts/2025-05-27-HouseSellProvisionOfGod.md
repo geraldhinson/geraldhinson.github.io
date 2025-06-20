@@ -12,7 +12,7 @@ thumbnail: assets/img/rebelbird.jpg
 
 > Teaser from below: <b> In the words of the great theologian, Tony Stark, <i>"Yeah, I detected that too.”</i></b>
 
-After the crazy events that led to our decision for my exodus from Southwestern Bell, we began sharing the story and reasons more broadly, beyond our closest friends.
+After the crazy events that led to our decision for my exodus from Southwestern Bell, we began sharing the story and reasons more broadly, beyond our closest friends. (Those crazy events can be found here https://geraldhinson.com/blog/2025/BadReviews-Prayers-AndRollerCoasters/ if you want to read them first.)
 
 Despite how compelling we deemed the story and the signs leading to that decision, we still encountered some doubters.
 
