@@ -9,12 +9,19 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-blog",
-          title: "blog",
+  },{id: "nav-full-blog",
+          title: "full-blog",
           description: "thoughts on tech, faith, coffee, and other topics worthy of rumination",
           section: "Navigation",
           handler: () => {
             window.location.href = "/blog/";
+          },
+        },{id: "nav-faith",
+          title: "faith",
+          description: "the subset of my blog focused on faith, prayer, and God",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/faith/";
           },
         },{id: "nav-projects",
           title: "projects",
