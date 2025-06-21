@@ -1,7 +1,7 @@
 ---
 layout: post
 title: House Stories - Signs of God's Provision (v1)
-date: 2025-05-25 12:00:00
+date: 2025-05-27 12:00:00
 description: Signs of Provision along the path
 tags: faith prayer
 categories: actual-posts

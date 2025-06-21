@@ -201,7 +201,7 @@ Consider this summary of facts:
 - Laurel (visiting from CA) and Siu met in a park that neither frequented.
 - The two of them decided to talk, and chose 'real' talk versus the usual surface-level chatter parents mostly do at parks, which led to the realization that they shared a faith in God
 - Laurel made a decision, described by her as ‘highly unlikely’, to share a painful story from her past with a complete stranger
-- The seemingly random comment made by Siu, based on the passing mention of St. Louis by Laurel, that she had just met a family from there, along with the fact that she remembered our names having just met us, and her choice to share that with Laurel given it had nothing to do with the conversation per se
+- The seemingly random comment by Siu that she had just met a family from St. Louis, along with the fact that she remembered our names having just met us, and her choice to share that with Laurel after the latter had only mentioned St. Louis in passing in the conversation
 - Laurel’s ‘unshakable feeling’ that she _had_ to find our number so she could call to ask us to meet their friends
 - Those same friends turning out to be our next-door neighbors, whom we had already met. (<i>Having just moved in, we still did not know numerous people in our neighborhood</i>)
 - How we found the house in the first place (me just driving around), that it was an answer to all we had prayed for, and that it was our 3rd attempt to purchase
