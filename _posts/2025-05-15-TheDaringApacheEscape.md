@@ -15,7 +15,7 @@ thumbnail: assets/img/ApacheWoman.png
 
 <i>(Not my friend. This is the fierce, 1800s, Apache warrior/prophet, Lozen. But, there ARE similarities. :))</i>
 
-Ok, let me just say this up front - the rest of that story may not live up to the cool attention grabber. LOL. But, it **is** the first chapter of a fun story that spans 40 years.
+Ok, let me just say this up front - the rest of that story may not live up to the cool attention grabber. LOL. But, it **is** the first chapter of a fun story that spans 30+ years.
 
 Hopefully that whets your appetite enough to read further.
 
@@ -73,6 +73,6 @@ Liz eventually found God despite all of the 'noise' she was forced to navigate a
 
 Btw, the part of Liz's story that began with the panicked blurting of Apache was not a once and done. Not by a long shot. That experience was just chapter one. And, her rear-view mirror conclusion that I mentioned above? Well, as my Dad once told me, "Gerald, it's a long road that has no turns."
 
-Liz had to wait another 40 years for chapter two. But, you do not. Just keep reading. I'll circle back with chapter two shortly.
+Liz had to wait another 30+ years for chapter two. But, you do not. Just keep reading. I'll circle back with chapter two shortly.
 
 :)
