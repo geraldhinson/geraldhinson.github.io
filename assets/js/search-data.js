@@ -70,6 +70,17 @@ ninja.data = [{
             window.location.href = "/blog/2025/BadReviews-Prayers-AndRollerCoasters/";
           
         },
+      },{id: "post-the-daring-apache-escape",
+        
+          title: "The Daring Apache Escape",
+        
+        description: "Lessons learned through community (Chapter 1)",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/TheDaringApacheEscape/";
+          
+        },
       },{id: "post-the-value-of-folklore",
         
           title: "The value of Folklore",
