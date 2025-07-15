@@ -82,7 +82,7 @@ I didn’t just know Dylan. I sat beside him and worked with him daily. We were 
 
 She told me her name, then followed with, “Are you familiar with the Datagate project at Southwestern Bell?”
 
-“Uhm, yes, quite familiar. I started that project and lead it.”
+“Uhm, yes, quite familiar. I started that project and still lead it.”
 
 She then said, “Wow, that is amazing. And, Datagate is amazing. I am from Austin and am very connected in the technology market there. <b>If you are ever interested in moving to Austin, I can help you find a job very easily. I know people who would love to hire you based on your work on Datagate.”</b>
 
