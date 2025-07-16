@@ -29,7 +29,7 @@ I can think of no better illustration of these truths than Liz.
 
 Despite the discouragement of her parents, she somehow concluded as a young girl that what was missing from her life was God. She also purposed that she was going to 'find Him', whether anyone was willing to help her or not.
 
-That is some pretty heady stuff for a elementary school aged girl to conclude with such conviction.
+That is some pretty heady stuff for an elementary school aged girl to conclude with such conviction.
 
 But, what did that verse above say? <b>That God's power and his nature can be clearly seen by us all just by looking at what has been made. Liz saw it.</b>
 
@@ -53,11 +53,11 @@ To be clear, Liz was not even a little bit Apache. But, she **was** a Girl Scout
 
 It worked.
 
-The moment she began speaking in her not-remotely-miraculous tongue, her captors felt the need to praise God for the 'miracle' that wasn't. Of course, being Pentecostals, such praising meant that the hands previously holding Liz were now lifted in the air. Suddenly free and still fully freaked out, Liz bolted from the front pew past her captors, the pastor, and down the aisle past everyone else in attendance that morning - she ran like her life depended on it out of that sanctuary to her trusty Apache pony, er, bike.
+The moment she began speaking in her not-remotely-miraculous tongue, her captors felt the need to praise God for the 'miracle' that wasn't. Of course, being Pentecostals, such praising meant that the hands previously holding Liz were now lifted in the air. Suddenly free and still fully freaked out, Liz bolted from the front pew past her captors, the pastor, and down the aisle past everyone else in attendance that morning - she ran like her life depended on it out of that sanctuary to her trusty bareback pony, er, bike.
 
->The experience was traumatic. That particular flavor of religion was permanently moved into the rear-view mirror of her life.
+>The experience was traumatic and resulted in that particular flavor of religion being permanently placed in her rear-view mirror - something to pedal away from.
 
-I wish I could report that I have not witnessed similar, traumatic interactions over the years. I cannot. Over the years I have witnessed some "doozies" that resulted in others running in the opposite direction from churches. (In fairness, most have been the result of bad judgment exercised by well-meaning people, but that said, I usually relate more to those running, than those they run from.)
+I wish I could report that I have not witnessed similar, traumatic interactions over the years. I cannot. Over the years I have witnessed some "doozies" that resulted in others running in the opposite direction from churches. (In fairness, most have been the result of bad judgment exercised by well-meaning people but, that said, I usually relate more to those running than those they run from.)
 
 What fascinates me about Liz's story is less the story and more her response.
 
