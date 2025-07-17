@@ -63,7 +63,9 @@ What fascinates me about Liz's story is less the story and more her response.
 
 Unlike most adults I have met over the years, <b>she did not conclude, as the result of her encounter with some misguided religious people, that God was unworthy of her pursuit.</b>
 
-Somehow, this elementary school girl was able to look past the trauma visited upon her by misguided people and continue to focus on pursuing God.
+Somehow, this elementary school girl was able to look past the trauma visited upon her by people and continue to focus on pursuing God.
+
+>God is not defined by those who follow him. 
 
 I am reminded of the story wherein Jesus caught his followers trying to keep children away from Him as he ministered, only to be scolded by him as he warmly welcomed the kids saying, <b><i>"Leave the children alone, and do not forbid them from coming to Me; for the kingdom of heaven belongs to such as these."</i></b>
 
