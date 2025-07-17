@@ -63,9 +63,9 @@ What fascinates me about Liz's story is less the story and more her response.
 
 Unlike most adults I have met over the years, <b>she did not conclude, as the result of her encounter with some misguided religious people, that God was unworthy of her pursuit.</b>
 
-Somehow, this elementary school girl was able to look past the trauma visited upon her by people and continue to focus on pursuing God.
+Somehow, this elementary school girl was able to look past the trauma visited upon her by <b>people</b> and continue to focus on pursuing <b>God</b>.
 
->God is not defined by those who follow him. 
+>She was 100% right - <i>God is not defined by those who follow him.</i>
 
 I am reminded of the story wherein Jesus caught his followers trying to keep children away from Him as he ministered, only to be scolded by him as he warmly welcomed the kids saying, <b><i>"Leave the children alone, and do not forbid them from coming to Me; for the kingdom of heaven belongs to such as these."</i></b>
 
@@ -73,7 +73,7 @@ I am reminded of the story wherein Jesus caught his followers trying to keep chi
 
 Liz eventually found God despite all of the 'noise' she was forced to navigate along the way. That's another thing Jesus promised: That those who pursue God and refuse to be distracted - including by the religious who often make the 'finding' harder - those people always find God.
 
-Btw, the part of Liz's story that began with the panicked blurting of Apache was not a once and done. Not by a long shot. That experience was just chapter one. And, her rear-view mirror conclusion that I mentioned above? Well, as my Dad once told me, "Gerald, it's a long road that has no turns."
+Btw, the part of Liz's story that began with the panicked blurting of Apache was not a once and done. Not by a long shot. That experience was just chapter one. And, her rear-view mirror conclusion that I mentioned above: To discount an entire group of God-followers? Well, stay tuned on that front because, as my Dad once told me, "Gerald, it's a long road that has no turns."
 
 Liz had to wait another 30+ years for chapter two. But, you do not. Just keep reading. I'll circle back with chapter two shortly.
 
