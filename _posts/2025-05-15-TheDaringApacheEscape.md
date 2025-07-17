@@ -61,7 +61,7 @@ I wish I could report that I have not witnessed similar, traumatic interactions 
 
 What fascinates me about Liz's story is less the story and more her response.
 
-Unlike most adults I have met over the years, <b>she did not conclude, as the result of her encounter with some wacky religious people, that God was unworthy of her pursuit.</b>
+Unlike most adults I have met over the years, <b>she did not conclude, as the result of her encounter with some misguided religious people, that God was unworthy of her pursuit.</b>
 
 Somehow, this elementary school girl was able to look past the trauma visited upon her by misguided people and continue to focus on pursuing God.
 
