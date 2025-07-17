@@ -43,7 +43,7 @@ So, one Sunday morning after pedaling to visit a new church, she listened intent
 
 To her surprise and great alarm, she suddenly found herself surrounded by a group of women who proceeded to place their hands on her, and pray loudly intermingling English with what sounded to Liz like gibberish - all the while coaching her to ask God for a miraculous 'tongue' of her own.
 
-Liz was understandably terrified and, although she wanted to run, was being held so firmly by those praying/chanting/coaching that she could not escape.
+Having zero cultural context for what was happening, Liz was understandably terrified and, although she wanted to run, was being held so firmly by those praying/chanting/coaching that she could not escape.
 
 Most little girls would have dissolved into tears. Not Liz.
 
@@ -53,11 +53,11 @@ To be clear, Liz was not even a little bit Apache. But, she **was** a Girl Scout
 
 It worked.
 
-The moment she began speaking in her not-remotely-miraculous tongue, her captors felt the need to praise God for the 'miracle' that wasn't. Of course, being Pentecostals, such praising meant that the hands previously holding Liz were now lifted in the air. Suddenly free and still fully freaked out, Liz bolted from the front pew past her captors, the pastor, and down the aisle past everyone else in attendance that morning - she ran like her life depended on it out of that sanctuary to her trusty bareback pony, er, bike.
+The moment she began speaking in her not-remotely-miraculous tongue, her captors felt the need to praise God for the 'miracle' that wasn't. This praising, of course, meant that the hands previously holding Liz were now lifted in the air. Suddenly free and still fully freaked out, Liz bolted from the front pew past her captors, the pastor, and down the aisle past everyone else in attendance that morning - she ran like her life depended on it out of that sanctuary to her trusty bareback pony, er, bike.
 
 >The experience was traumatic and resulted in that particular flavor of religion being permanently placed in her rear-view mirror - something to pedal away from.
 
-I wish I could report that I have not witnessed similar, traumatic interactions over the years. I cannot. Over the years I have witnessed some "doozies" that resulted in others running in the opposite direction from churches. (In fairness, most have been the result of bad judgment exercised by well-meaning people but, that said, I usually relate more to those running than those they run from.)
+I wish I could report that I have not witnessed similar, traumatic interactions over the years. I cannot. Over the years I have witnessed some "doozies" that resulted in others running in the opposite direction from churches. (In fairness, most have been the result of bad judgment exercised by well-meaning people but, that said, it is hard not to relate more to those running than those they run from.)
 
 What fascinates me about Liz's story is less the story and more her response.
 
@@ -67,7 +67,7 @@ Somehow, this elementary school girl was able to look past the trauma visited up
 
 >She was 100% right - <i>God is not defined by those who follow him.</i>
 
-I am reminded of the story wherein Jesus caught his followers trying to keep children away from Him as he ministered, only to be scolded by him as he warmly welcomed the kids saying, <b><i>"Leave the children alone, and do not forbid them from coming to Me; for the kingdom of heaven belongs to such as these."</i></b>
+I am reminded of the story wherein Jesus scolded his followers for trying to keep children away from Him as he ministered. His words to them were, <b><i>"Leave the children alone, and do not forbid them from coming to Me; for the kingdom of heaven belongs to such as these."</i></b>
 
 >Sometimes kids see things so much more clearly than we adults.
 
