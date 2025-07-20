@@ -3,8 +3,8 @@ layout: post
 title: The Daring Apache Escape
 date: 2025-05-15 12:00:00
 description: Lessons learned through community (Chapter 1)
-tags: faith prayer
-categories: actual-posts
+tags: remove
+categories: deleted-posts
 thumbnail: assets/img/ApacheWoman.png
 ---
 
