@@ -70,6 +70,17 @@ ninja.data = [{
             window.location.href = "/blog/2025/BadReviews-Prayers-AndRollerCoasters/";
           
         },
+      },{id: "post-it-39-s-not-a-place",
+        
+          title: "It&#39;s NOT a Place!",
+        
+        description: "Lessons learned through community (Chapter 1.5)",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/ChurchAsCommunityAndCelebration/";
+          
+        },
       },{id: "post-the-daring-apache-escape",
         
           title: "The Daring Apache Escape",
