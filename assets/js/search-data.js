@@ -9,15 +9,15 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-full-blog",
-          title: "full-blog",
-          description: "thoughts on tech, faith, coffee, and other topics worthy of rumination",
+  },{id: "nav-blog",
+          title: "blog",
+          description: "thoughts on tech, biz, coffee, and other topics worthy of rumination",
           section: "Navigation",
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "nav-faith",
-          title: "faith",
+        },{id: "nav-faith-blog",
+          title: "faith-blog",
           description: "the subset of my blog focused on faith, prayer, and God",
           section: "Navigation",
           handler: () => {
