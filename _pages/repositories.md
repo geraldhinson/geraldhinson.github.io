@@ -9,7 +9,7 @@ nav_order: 4
 
 {% if site.data.repositories.github_repos %}
 
-<h3>GitHub<h3>
+<h3>GitHub (work in progress - let the 'buyer' beware) <h3>
 
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
   {% for repo in site.data.repositories.github_repos %}

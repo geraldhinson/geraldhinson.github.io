@@ -4,7 +4,7 @@ title: House Stories - Signs of God's Provision (v2)
 date: 2025-06-01 12:00:00
 description: How far God goes to show He is with us!
 tags: faith prayer
-categories: actual-posts
+categories: faith-posts
 thumbnail: assets/img/rebelbird.jpg
 ---
 

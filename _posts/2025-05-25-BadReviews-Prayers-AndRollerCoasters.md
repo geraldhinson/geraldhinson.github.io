@@ -4,7 +4,7 @@ title: Bad Reviews, Prayers, and Roller Coasters
 date: 2025-05-25 12:00:00
 description: Am I being axed? Or, pruned?
 tags: faith prayer
-categories: actual-posts
+categories: faith-posts
 thumbnail: assets/img/rollercoaster.jpg
 ---
 

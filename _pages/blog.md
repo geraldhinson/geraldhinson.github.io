@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /blog/
-title: full-blog
-description: thoughts on tech, faith, coffee, and other topics worthy of rumination
+title: blog
+description: thoughts on tech, biz, coffee, and other topics worthy of rumination
 nav: true
 nav_order: 1
 pagination:

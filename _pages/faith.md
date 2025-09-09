@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /faith/
-title: faith
+title: faith-blog
 description: the subset of my blog focused on faith, prayer, and God
 nav: true
 nav_order: 1
