@@ -37,7 +37,62 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/repositories/";
           },
-        },{id: "post-house-stories-signs-of-god-39-s-provision-v2",
+        },{id: "post-on-microservices-chapter-5-journal-reader-services",
+        
+          title: "On Microservices (Chapter 5 - Journal Reader Services)",
+        
+        description: "The third of four service types",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/On-Microservices-Part5/";
+          
+        },
+      },{id: "post-on-microservices-chapter-4-query-services",
+        
+          title: "On Microservices (Chapter 4 - Query Services)",
+        
+        description: "The second of four service types",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/On-Microservices-Part4/";
+          
+        },
+      },{id: "post-on-microservices-chapter-3-noun-services",
+        
+          title: "On Microservices (Chapter 3 - Noun Services)",
+        
+        description: "The first of four service types",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/On-Microservices-Part3/";
+          
+        },
+      },{id: "post-on-microservices-chapter-2-an-origin-story",
+        
+          title: "On Microservices (Chapter 2 - An origin story)",
+        
+        description: "The origin of &quot;Journaled Microservices&quot;",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/On-Microservices-Part2/";
+          
+        },
+      },{id: "post-on-microservices-chapter-1-bad-raps-versus-facts",
+        
+          title: "On Microservices (Chapter 1 - Bad Raps versus Facts)",
+        
+        description: "A bit of pushback where needed",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/On-Microservices-Part1/";
+          
+        },
+      },{id: "post-house-stories-signs-of-god-39-s-provision-v2",
         
           title: "House Stories - Signs of God&#39;s Provision (v2)",
         
