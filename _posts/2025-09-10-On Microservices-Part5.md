@@ -55,7 +55,8 @@ Specifically:
   
   <b>RESULT? Classic flow-control. Overall throughput slows down</b>, likely not keeping up with orders placed, customers awaiting access to products, etc.
 
-<a href="/assets/img/teamwork.jpg" data-lightbox="PullVsPush"><img src="/assets/img/teamwork.jpg" width="60%" height="60%" /></a>
+  Remember ~~the race~~ each push isn't over until all the runners cross the finish line!
+<a href="/assets/img/SlowestServiceInPush.png" data-lightbox="PullVsPush"><img src="/assets/img/SlowestServiceInPush.png" width="60%" height="60%" /></a>
 
 The real issue is that *push* is a tight-coupled construct.
 
@@ -86,7 +87,7 @@ Those systems usually come with some of the disadvantages already mentioned earl
 - some of them even create their own issues with your choice of more flow-control or out-of-order delivery of related updates
   - Have you ever gotten an update request for a resource that was already deleted, because something went awry with the update? Perhaps there was a problem with it and it got dumped into a dead-letter queue? Then, because queuing sysems treat all messages as atomic (ie. independent) the delete msg showed up, was processed, and screwed up the system.
 - Also, on queuing:
-  -   Do you need to a new queue every time a new product or team is added to the mix? What if the other team doesn't read from the queue fast enough? Does the queue live in their data center or mine? 
+  -   Do you need to create a new queue every time a new product or team is added to the mix? What if the other team doesn't read from the queue fast enough? Does the queue live in their data center or mine? 
   
 <b>This gets messy fast. And, it is completely avoidable.<b>
 
@@ -104,6 +105,3 @@ So, with that context fresh in our minds, let's proceed to actually examine the 
 <a href="/assets/img/ChangeThinkingEinstein.jpeg" data-lightbox="PullVsPush"><img src="/assets/img/ChangeThinkingEinstein.jpeg" width="50%" height="50%" /></a>
 
 [Onward! Progress! (Click here)](/blog/2025/On-Microservices-Part6/)
-
-
-TODO: add pic showing flow-control

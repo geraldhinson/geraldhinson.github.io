@@ -96,7 +96,7 @@ To those who would claim that building microservices is too hard or too much of 
 
   Want to raise your chances at success even more? Know these answers too:
   - Do you know where failures fail back to in your system? And, how recovery occurs at those points? 
-  - Does your design formalize this? Or, are you just hoping for the best?
+    - Does your design formalize this? Or, are you just hoping for the best?
 
 <b>Basics still matter and, SURPRISE!, taking the time to determine those same answers doesn't just save time. It brilliantly enables the creation of microservice-based applications.</b>
 
