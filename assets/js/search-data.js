@@ -9,8 +9,8 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-blog",
-          title: "blog",
+  },{id: "nav-tech-blog",
+          title: "tech-blog",
           description: "thoughts on tech, biz, coffee, and other topics worthy of rumination",
           section: "Navigation",
           handler: () => {
@@ -37,7 +37,40 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/repositories/";
           },
-        },{id: "post-on-microservices-chapter-5-journal-reader-services",
+        },{id: "post-on-microservices-chapter-8-epilogue",
+        
+          title: "On Microservices (Chapter 8 - Epilogue)",
+        
+        description: "Summing it all up!",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/On-Microservices-Part8/";
+          
+        },
+      },{id: "post-on-microservices-chapter-7-verb-services",
+        
+          title: "On Microservices (Chapter 7 - Verb Services)",
+        
+        description: "The fourth of four service types",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/On-Microservices-Part7/";
+          
+        },
+      },{id: "post-on-microservices-chapter-6-journal-reader-services-continued",
+        
+          title: "On Microservices (Chapter 6 - Journal Reader Services (continued))",
+        
+        description: "The third of four service types",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/On-Microservices-Part6/";
+          
+        },
+      },{id: "post-on-microservices-chapter-5-journal-reader-services",
         
           title: "On Microservices (Chapter 5 - Journal Reader Services)",
         
