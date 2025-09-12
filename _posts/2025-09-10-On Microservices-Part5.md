@@ -55,7 +55,7 @@ Specifically:
   
   <b>RESULT? Classic flow-control. Overall throughput slows down</b>, likely not keeping up with orders placed, customers awaiting access to products, etc.
 
-<a href="/assets/img/Teamwork.jpg" data-lightbox="PullVsPush"><img src="/assets/img/Teamwork.jpg" width="60%" height="60%" /></a>
+<a href="/assets/img/teamwork.jpg" data-lightbox="PullVsPush"><img src="/assets/img/teamwork.jpg" width="60%" height="60%" /></a>
 
 The real issue is that *push* is a tight-coupled construct.
 
