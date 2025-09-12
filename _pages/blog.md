@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /blog/
-title: blog
+title: tech-blog
 description: thoughts on tech, biz, coffee, and other topics worthy of rumination
 nav: true
 nav_order: 1
