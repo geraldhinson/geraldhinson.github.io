@@ -9,7 +9,6 @@ thumbnail: assets/img/TheMegVsContainerShip.jpeg
 ---
 ### Epilogue
 <br>
-
 I began this discussion with a couple of goals: 
 1. to challenge how microservices are often characterized and (mis)understood
 2. to describe the journaled microservices pattern given its unique power, flexibility, and simplicity 
@@ -23,19 +22,20 @@ My point was less about monoliths (chill out, monolithians) and more to dissuade
 Have you considered that a call to a well-written microservice should compare favorably in terms of request/response time to a call between your app and a database? In my experience, <b>many assume that the DB calls are much faster</b>. If that is always the case, then you are dealing with a poorly written microservice or framework.
 
 Have you also considered how CPU-expensive all of the ORM (or equivalent custom DB code) serialization/shredding logic is? I routinely see the noun objects 'shredded' across numerous tables in most apps I review.
-- When every (PUT/POST) object write is updating multiple tables (and associated indexes) and every (GET) object read invokes the inverse logic required to reconstitute the same object from those same tables & indexes - with corresponding joins - <b>this is an expensive use of your most costly, must-stay-up, OLTP hosting machines.</b> You usually need to <b>look no further than this to find why many apps have such slow timings</b> as I shared in chapter 1.
-- Add to that any filtered GET query logic running on those very same machines because it got jammed into the same app logic. Monoliths have enough trouble scaling up already. Why make it worse by burning your precious CPU cycles on such?
+- When every (PUT/POST) object write is updating multiple tables (and associated indexes) and every (GET) object read invokes the inverse logic required to reconstitute the same object from those same tables & indexes - with corresponding joins - <b>this is (often) an expensive use of your most costly, must-stay-up, OLTP hosting machines.</b> You usually need to <b>look no further than this to find why many apps have such slow timings</b> as I shared in chapter 1.
+- Add to that any filtered GET query logic running on those very same machines because it got jammed into the same app logic. Monoliths (which tend to be scale-up vs scale-out systems) have enough trouble running out of headroom already. Why make it worse by burning your precious CPU cycles on such?
 - In contrast, the journaled nouns write to two tables on a write, read from one table on a GET. And they offload filtered queries to the query service running on designated (and often cheaper) machines that don’t burn your precious OLTP CPU cycles at all.
 
-No app architecture is perfect, but, at times, I wish for a few of these to hand out to those who prefer to spout platitudes vs use engineering thought in decision making.
+No app architecture is perfect, but, at times, I wish for a few of these to hand out to those who prefer to spout perf platitudes vs use engineering thought in decision making.
 
 <a href="/assets/img/WisdomChasingYou.png" data-lightbox="epilogue"><img src="/assets/img/WisdomChasingYou.png" width="30%" height="30%" /></a>
 
-The MSFT commerce team worried a lot about scale because in their world, those infamous Super-Bowl Sunday load spikes were not just theoretical. 
-- They had scars from app scaling failures under load. They knew from experience that all of those differing backup/restore/failover policies and semantics spanning the mix of DBs, Queuing, Pub/Sub, etc. products would result in out-of-sync data and/or long restore times - and, even then, manual cleanup was usually required.
-  — In that context, using only a relational DB in the journaled service model was a very attractive simplification
+The MSFT commerce team worried a lot about scale because in their world, those infamous Super Bowl Sunday load spikes were not just theoretical. 
+- They had scars from app scaling failures under load. They knew from experience that all of those differing backup/restore/failover policies and semantics spanning the mix of DBs, Queuing, Pub/Sub, etc. products would result in out-of-sync data and/or long restore times - <b>in other words, even with them, significant manual cleanup was usually required.</b>
+  - In that context, using only a relational DB in the journaled service model was a very attractive simplification. It meant failovers would keep data in sync, backup/restores would be more granular and faster, and monitoring would be greatly simplifed.
+  <br>
 
-- But they also needed to confirm that the journaled microservice model could actually scale. 
+- But before ditching all of those, they also needed to confirm that the journaled microservice model could actually scale. 
   - To that end, they load tested the journaled microservice model in excess of 800 updates (PUT/POST) per second. This was more than 3x the highest load anyone had ever seen from a Super Bowl type of spike.
 
 Predictably, the model outperformed their other, previous app architectures.
@@ -61,7 +61,7 @@ Some nice evolution has occurred as well. <b>What began as patterns and template
 
 I shared a coffee with a brilliant friend from that original team a couple of years ago (who was also in my dev team that built reliable messaging into the SQL Server prior. Hi, Ivan!). One of his most poignant comments over coffee that day was, <b>“The biggest mistake we made was in not standardizing the patterns into implementations for everyone to share.”</b>
 
-I had repeated that mistake once myself - particularly on the Journal Reader. <b>Per his warning and our mutual pain, libraries and default implementations were created in subsequent instantiations.</b> Much of what I have written about here is based on those implementations, including:
+I had repeated that mistake once myself - particularly on the Journal Reader. <b>Per his warning and our mutual pain, libraries and default implementations were created in subsequent instantiations.</b> Much of what I have written about here has made its way into those implementations, including:
 
   1. The resource library used by noun services to handle all DB calls accessing the ‘resource’ and ‘journal’ tables. Three versions of this library (Java, C#, Go) have implemented optimistic locking. One even added sophisticated support for idempotency.
 

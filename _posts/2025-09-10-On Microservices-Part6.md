@@ -78,8 +78,9 @@ But, upon examination, the journal reader models offers a lot more in terms of b
 - The guarantee of in-order processing of resource updates (for both success and retries) is a big deal
 
 - Each downstream or loose-coupled system using a journal reader pulls journaled entries at its own pace (both batch size and GET frequeuncy) while maintaining its own ‘clock’ for what has been processed so far from a noun’s journal.
-  - Customer product provisioners, as mentioned earlier, will typically be aggressive to ensure the customer’s product is available immediately after purchase
+  - Customer product provisioners, as mentioned earlier, will typically be aggressive to ensure the customer’s product is available immediately after purchase
   - Journal Readers that populate data ponds/lakes, which may not require up-to-second data, can be less aggressive and even process the journal off-hours when compute costs are cheaper.
+<br><br>
 
 - You have full control of where Journal Readers are installled and run. They can be used to pull data across cloud boundaries and/or in on-prem data centers. Hybrid cloud, anyone?
 
@@ -105,8 +106,8 @@ We now have:
 
 > That was a lot of verbiage. Let's look at an illustration that shows usage. 
 
-Tight-coupled services just call each other directly to accomplish a shared goal.
-- Example: Front-end calls the Orders noun to make a purchase. Orders calls Bills which calls Payments to charge a credit card. We block the front-end until the money is taken. AKA tight-coupled calls.
+In this illustration, tight-coupled services just call each other directly to accomplish a shared goal.
+- Example: Front-end calls the Orders noun to make a purchase. This is shown below. Not shown below is: Orders calls Bills which calls Payments to charge a credit card. We block the front-end until the money is taken. AKA tight-coupled calls.
 
 Loose-coupled services leverage Journal Readers to pull from Journals at their own pace and (yea, verily) never affect others who are also pulling.
 

@@ -67,7 +67,7 @@ This coordinated update pattern can also be extended to add protections not foun
 
   This is useful for safely repeating calls without fear of doubling up on the debit or credit calls if a connection is lost prior to the caller receiving a response.
 
-  NOTE: Depending on whether or not the downstream apps called provide for a GET call to see if their part of the coordinated update has occurred or not, the Verb Service in question may be required to have its own storage to record partial progress. At this point you have essentially crossed back over into the realm of a noun service, where the noun in question is the cooredinated operation itself.
+  NOTE: Depending on whether or not the downstream apps called provide for a GET call to see if their part of the coordinated update has occurred or not, the Verb Service in question may be required to have its own storage to record partial progress. At this point you have essentially crossed back over into the realm of a noun service, where the noun in question is the coordinated operation itself.
 
 **Gateway Services** via Verb Services
 Another common use of verb services is to build API (or protocol) translators that bridge between disparate systems. The world of B2B APIs often requires such.
@@ -90,7 +90,7 @@ Perhaps this is why none of them offer something this simple? LOL. Dumb conspira
 
 Want to run it all in your on-prem data center? Go for it.
 
-Unlike most of what I have share here, this cloud-agnosticism goal was not a concern for the original MSFT team (they used Azure, duh), but for many of us who subsequently used journaled microservices outside of MSFT, it definitely **has been** a goal, and staying true to that goal has been very empowering.
+Unlike most of what I have shared here, this cloud-agnosticism goal was not a concern for the original MSFT team (they used Azure, duh), but for many of us who subsequently used journaled microservices outside of MSFT, it definitely **has been** a goal, and staying true to that goal has been very empowering.
 
 I've run entire apps built using the journaled services model on a laptop. For testing, I've configured services spanning my laptop, on-prem data centers, and cloud services (all working together). 
 

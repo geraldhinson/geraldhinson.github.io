@@ -30,7 +30,7 @@ But, it didn't just get relocated. It was also refactored into a completely diff
 
 <a href="/assets/img/Sweeney.jpeg" data-lightbox="QueriesService"><img src="/assets/img/Sweeney.jpeg" width="30%" height="30%" /></a>
 
-Like Sweeney's ad, this particular change hails back to the era of bell bottom jeans and relational database gateways. (I bet you didn't expect to see Sweeney in a microservices write-up! LOL. I couldn't resist. Maybe I should find a way to use "Cracker Barrel" too.)
+Like Sweeney's ad, this particular change hails back to the era of bell bottom jeans and relational database gateways. (Sorry, I couldn't resist. I bet you didn't expect to see Sweeney in a microservices write-up! LOL.)
 
 The query service is a write-once-and-reuse service (or library) that can be instantiated as many times as are useful in (or across) orgs. 
 
@@ -84,12 +84,13 @@ Internal to the query service are:
 - a ‘canned’ (read: predefined) set of queries / stored-procs that are mapped to the API-exposed (ie. URL-form) queries
 
 - Generic logic to:
-  — Do plan creation (and parameter binding) on query service startup
-  — Llsten for incoming queries
-  — Query execution with URL-to-SQL parameter substitution (SQL-injection safe! Secured. Parameter counts and type validated)
-  — Writing of responses with conversion of DB results into JSON responses
+  - Do plan creation (and parameter binding) on query service startup
+  - Llsten for incoming queries
+  - Query execution with URL-to-SQL parameter substitution (SQL-injection safe! Secured. Parameter counts and type validated
+  - Writing of responses with conversion of DB results into JSON responses
   - Monitor query execution times with appropriate logging/notifications for excessive execution times
-<br><br>
+<br>
+
 Centralizing queries to a service of this nature has numerous attendant benefits:
 
 - HUGE time saved through the elimination of writing/maintaining custom DB code spanning many services
@@ -104,7 +105,7 @@ Centralizing queries to a service of this nature has numerous attendant benefits
 - Provides a central, bird’s eye view of how data is being used by apps
 
 - Is typically simpler than GraphQL and <b>often eliminates the need for GraphQL entirely</b>
-
+<br><br>
 
 Adding new (query) functionality for filtered GETs to the query service can be as simple as:
 
@@ -133,11 +134,9 @@ A simplistic mapping for the URL example above might look like this (please don�
   },
 ```
 
-(For reference, here is the matching URL call that matches the mapping just defined (copied from above):
+For easy reference, here is the matching URL call that matches the mapping just defined (copied from above):
  
 <b> https://[hostname]/v1/queries/employees/getEmployeesByBranchId?branchId=4bcc85f2-8a2d-4a6b-be4f-b2293b4fd295</b>
-
-)
 
 Such an entry simply serves to enable translation from an incoming URL to the underlying SQL call that will get executed. The “select” shown above could just as easily have been a call to a stored procedure defined in the relational DB.
 
@@ -153,7 +152,7 @@ In my experience, building this service usually takes about 2 weeks, and then it
 
 <b>That is some serious ROI</b>. When was the last time you had the opportunity to invest 2 weeks (heck, make it a month!) of one good developer’s time for such an enormous return on investment?
 
-To quote that little goblin who hangs out in Booty Bay in World of Warcraft: Time is money, friend!
+To quote that little goblin who hangs out in Booty Bay in World of Warcraft: "Time is money, friend!"
 <a href="/assets/img/TimeIsMoneyFriend.jpeg" data-lightbox="QueriesService"><img src="/assets/img/TimeIsMoneyFriend.jpeg" width="30%" height="30%" /></a>
 
 Our Next chapter explores the Journal Reader Service.
