@@ -77,7 +77,7 @@ Differences:
 - Want to see what is failing? Just run a query on the Quarantined table. You will instantly know which entries failed, what processor logic failed them, and the error/exception thrown as part of that failure.
   - Recommendation: Having background monitoring checking this table for count of entries, etc. with appropriate notifications to the right mix of OPS/Engineering/Other is very powerful. 
 
-> Some will now say “This Journal Reader with Processors model sounds just like lambda or [insert favorite cloud function here]!
+> Some will now say “This Journal Reader with Processors model sounds just like lambda or [insert favorite cloud function here]!"
 
 But, upon examination, the journal reader models offers a lot more in terms of benefits:
 
@@ -137,7 +137,8 @@ Real-world examples:
 - Buying an app from an app store is a one-and-done payment sort of transaction that requires only an entitlement.
 - Buying a domain that is billed yearly is an example that requires both an entitlement and a subscription.
 
-(Note: In the interest of simplicity, I did not show a failure with Quarantine processing. If there is enough interest, I may be convinced to write a follow-up, deep-dive article on the Journal Reader internals.)
+(<b>Note 1:</b>   In the interest of simplicity, I did not show a failure with Quarantine processing. If there is enough interest, I may be convinced to write a follow-up, deep-dive article on the Journal Reader internals.
+ <b>Note 2:</b> I also did not show a Processor inserting into a data pond/lake. The only difference in the image would be a Processor issuing SQL Insert/Update/Delete calls to a database engine rather than issuing REST verbs to a microservice.)
 
 > So that defines the basics of Journal Readers and how to use them.
 
