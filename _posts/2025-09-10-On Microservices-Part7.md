@@ -90,7 +90,7 @@ Perhaps this is why none of them offer something this simple? LOL. Dumb conspira
 
 Want to run it all in your on-prem data center? Go for it.
 
-Unlike most of what I have shared here, this cloud-agnosticism goal was not a concern for the original MSFT team (they used Azure, duh), but for many of us who subsequently used journaled microservices outside of MSFT, it definitely **has been** a goal, and staying true to that goal has been very empowering.
+Unlike most of what I have shared here, this cloud-agnosticism goal was not a concern for the original Microsoft team (they used Azure, duh), but for many of us who subsequently used journaled microservices outside of Microsoft, it definitely **has been** a goal, and staying true to that goal has been very empowering.
 
 I've run entire apps built using the journaled services model on a laptop. For testing, I've configured services spanning my laptop, on-prem data centers, and cloud services (all working together). 
 

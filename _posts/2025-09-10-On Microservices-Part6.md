@@ -33,7 +33,7 @@ Each Journal Reader calls a noun service with a simple GET call to retrieve any 
 This call fetches up to 100 journaled entries from the employees service starting at the 10950th entry (because the earlier ones were already processed).
 
 Key points:
-- Every Journal Reader manages (persists) its own highest, last-read entry from a noun’s ournal (called 'clock' in the URL above).
+- Every Journal Reader manages (persists) its own highest, last-read entry from a noun’s journal (called 'clock' in the URL above).
   - This is easy to do because the journal tables include a monotonically increasing integer column that is incremented by the database on insert.
   - The PULL (aka GET call) requests a batch of entries starting with the last processed entry as stored by the Journal Reader (ie. itself)
 <br><br>
@@ -47,7 +47,15 @@ For each new entry retrieved, the Journal Reader makes a call to a list of pre-c
 Journal Reader processors are simple callable routines that expose a common API interface that is used by the journal reader to pass them a journaled entry. Their job is simple: 
 - process the entry successfully or return an error/exception for that entry (usually including the specific error detected)
 
-Journal Reader processors are commonly used to call other downstream services, populate data lakes/ponds, etc.
+Journal Reader processors are simple callbacks that can be used in many ways. Common uses include:
+- calling other downstream services 
+  - In the commerce example I've been using as an illustration, both the Subscriptions and Entitlements noun are called by Journal Reader Processors, passing a funded Order from which to create both a new Subscription and new Entitlement
+- populating data lakes/ponds, etc. 
+  - Processors that populate data lakes/ponds will commonly do the shredding of those JSON journal entries into the nicely queryable, indexed tables that the query service leverages. 
+  - The fact that the Journal Reader is happy to call however many Processors you define allows for nice partitioning of this logic to simplify maintenance.
+  - THOUGHT EXERCISE: If you care about idempotency (and you should), Processors that populate data pond/lakes are a great place to put a simple piece of logic to provide for an idempotency guarantee. It takes a bit more work than this for Processors calling other downstream services (do you know why?), but it is doable there as well.
+
+(NOTE: I've used the terms "data pond" and "data lake" a couple of times without delineating between them. Data Pond is an operational-focused (and usually smaller) Data Lake that is only used by apps issuing queries. Data Lake, on the other hand, is all about analytics and is generally configured for that purpose. Using a relational database with strong support for OLAP is common here. Alternatives with stronger analytics support (e.g. Snowflake) can also be leveraged.)
 
 (A lower-level, implementation detail) Journal Reader processors typically run in a set of n (configured number) tasks that are spawned by the Journal Reader. Journaled resource entries (from the PULL above) being processed are divided up between the tasks using an algorithm (e.g. consistent hashing) to ensure that all updates for a given resource are processed in order.
 
@@ -88,7 +96,7 @@ But, upon examination, the journal reader models offers a lot more in terms of b
 
 - Again, all persistence is still wholly contained in the underlying relational database model.
   - Simple backup/restore/failover/monitoring is still maintained 
-  - Ops expertise/dev team expertise and licensing are all cheaper
+  - Operations expertise, dev team expertise, and licensing are all cheaper
   - Less moving parts means overall up-times are better.
 <br><br>
 - THOUGHT EXERCISE: I’ll just sneak this little tidbit in here for those paying close attention and already thinking about building/using the journaled microservivce model. 
@@ -135,7 +143,7 @@ Real-world examples:
 
 We have discussed 3 types of services so far. All built on top of simple relational databases, which can be used in any cloud or on-prem dependent on your company's need for scale, failover semantics, cost management, etc.
 
-That original MSFT architecture team explicitly stated (in their epiphany-reveal meeting): <b><i>We know we are going to have relational databases in the mix. That is a given. How far can we push *only* having those vs all of these other systems that raise both complexity and risk of downtime?</i></b>
+That original Microsoft architecture team explicitly stated (in their epiphany-reveal meeting): <b><i>We know we are going to have relational databases in the mix. That is a given. How far can we push *only* having those vs all of these other systems that raise both complexity and risk of downtime?</i></b>
 
 The answer, as it turns out, was (and is still) “pretty dang far”.
 

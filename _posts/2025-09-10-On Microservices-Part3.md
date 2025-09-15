@@ -24,7 +24,7 @@ In REST-speak, these are resources. (I'll sometimes use them as synonyms herein.
 
 Common examples are Orders, Payments, Subscriptions, Entitlements, Customers, ServiceRequests, Questionnaires, Answers, Chats, ScheduledJobs, etc.
 
-A key (and simple) innovation that the MSFT team contributed was to make their nouns “Journaled”.
+A key (and simple) innovation that the Microsoft team contributed was to make their nouns “Journaled”.
 
 In a noun service, every ‘write’ stores the latest version of a resource in an identity-keyed 'Resource' table while also appending the latest version of the resource into a ‘Journal’ table as part of the same ACID transaction.
 
@@ -54,7 +54,7 @@ By removing filtered GETs logic from noun services:
 - the usage of ORMs (and/or custom database logic or both) in noun services was eliminated entirely because it was no longer needed (I suspect the angels sang).
 
 Instead:
-- noun services used a standard resource DB library to do the simple work of storing and retrieving a resource in JSON form
+- noun services used a standard resource database library to do the simple work of storing and retrieving a resource in JSON form
 - JSON objects were stored in a column as text <i>(nope, not even those cool JSON columns were used because they were slower)</i>.
 - Due to simply storing the object in JSON form and the elimination of filtered GET support, the average number of writes (tables+indexes) was reduced - usually significantly.
 - Support for optimistic locking, an important but often overlooked feature, was added for the benefit of all noun services in the resource library as well.
@@ -68,7 +68,7 @@ to
 
 That doesn't roll off the tongue quite so easily, but to quote Einstein, <i>"things should be as simple as possible, but not simpler".</i> 
 
-Albert would have been proud because noun services became <b>faster, consumed fewer resources, and were simpler to scale due to predictable (and less) DB usage</b>. Plus, <b>writing & maintaining them became much simpler</b>, too.
+Albert would have been proud because noun services became <b>faster, consumed fewer resources, and were simpler to scale due to predictable (and less) database usage</b>. Plus, <b>writing & maintaining them became much simpler</b>, too.
 
 Next up: Query Services
 

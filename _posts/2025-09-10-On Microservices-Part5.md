@@ -20,7 +20,7 @@ For reference, the 4 service types were:
 <b>— Journal Reader Service (with a "Push" vs "Pull" semantics prologue first) —</b>
 
 So far we have: 
-- changed noun services to journaled services and removed costly-to-write (and injection prone) custom DB code from them
+- changed noun services to journaled services and removed costly-to-write (and injection prone) custom DB (database) code from them
 - replaced the remaining DB writes in those nouns with a standard resource library that handles all DB calls and also implements optimistic locking. 
 - relocated the DB query logic previously existing in the noun services to a query service that replaces custom app query code with a data-driven, config approach.
 
@@ -91,7 +91,7 @@ Those systems usually come with some of the disadvantages already mentioned earl
   
 <b>This gets messy fast. And, it is completely avoidable.<b>
 
-Part of the epiphany had by the MSFT commerce architecture team (see earlier posts) was that they could avoid both the push pain AND the disadvantages (complexity, cost, less reliability, etc.) that come with adding queuing/pubsub systems to the app mix. 
+Part of the epiphany had by the Microsoft commerce architecture team (see earlier posts) was that they could avoid both the push pain AND the disadvantages (complexity, cost, less reliability, etc.) that come with adding queuing/pubsub systems to the app mix. 
 
 So how did they do it?
 

@@ -36,7 +36,7 @@ The query service is a write-once-and-reuse service (or library) that can be ins
 
 >The realization reached by the journaled microservice architecture team was this: 
 ><br><br>
->— There is rarely a need for custom database query logic to live in app code, nor for it to be executed on the same servers servicing OLTP traffic. This logic is a prime candidate to be relocated, standardized (read: written once), and driven via configured mappings. Savings all around!
+>— There is rarely a need for custom database query logic to live in app code, nor for it to be executed on the same servers servicing OLTP (Online Transaction Processing) traffic. This logic is a prime candidate to be relocated, standardized (read: written once), and driven via configured mappings. Savings all around!
 
 At a high level, the query service is dead simple: It accepts HTTP GET calls in familiar URL form and replies with JSON results.
 
@@ -87,7 +87,7 @@ Internal to the query service are:
   - Do plan creation (and parameter binding) on query service startup
   - Llsten for incoming queries
   - Query execution with URL-to-SQL parameter substitution (SQL-injection safe! Secured. Parameter counts and type validated
-  - Writing of responses with conversion of DB results into JSON responses
+  - Writing of responses with conversion of DB (database) results into JSON responses
   - Monitor query execution times with appropriate logging/notifications for excessive execution times
 <br>
 
@@ -95,7 +95,7 @@ Centralizing queries to a service of this nature has numerous attendant benefits
 
 - HUGE time saved through the elimination of writing/maintaining custom DB code spanning many services
 
-- Provisioning for read workloads (no writes) can be quite beneficial. Ops love!
+- Provisioning for read workloads (no writes) can be quite beneficial.
   - Query services can (sometimes even) be instantiated to read from DB replicas that have less load and which never interfere with OLTP traffic - like taking orders from customers.
 
 - Query Services can be leveraged in cloud or on-prem, etc. or to enable calls between.

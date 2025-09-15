@@ -19,10 +19,10 @@ My point was less about monoliths (chill out, monolithians) and more to dissuade
 
 <b>Thoughts to ponder on performance:</b>
 <br>
-Have you considered that a call to a well-written microservice should compare favorably in terms of request/response time to a call between your app and a database? In my experience, <b>many assume that the DB calls are much faster</b>. If that is always the case, then you are dealing with a poorly written microservice or framework.
+Have you considered that a call to a well-written microservice should compare favorably in terms of request/response time to a call between your app and a database? In my experience, <b>many assume that the DB (database)calls are much faster</b>. If that is always the case, then you are dealing with a poorly written microservice or framework.
 
 Have you also considered how CPU-expensive all of the ORM (or equivalent custom DB code) serialization/shredding logic is? I routinely see the noun objects 'shredded' across numerous tables in most apps I review.
-- When every (PUT/POST) object write is updating multiple tables (and associated indexes) and every (GET) object read invokes the inverse logic required to reconstitute the same object from those same tables & indexes - with corresponding joins - <b>this is (often) an expensive use of your most costly, must-stay-up, OLTP hosting machines.</b> You usually need to <b>look no further than this to find why many apps have such slow timings</b> as I shared in chapter 1.
+- When every (PUT/POST) object write is updating multiple tables (and associated indexes) and every (GET) object read invokes the inverse logic required to reconstitute the same object from those same tables & indexes - with corresponding joins - <b>this is (often) an expensive use of your most costly, must-stay-up, OLTP (Online Transaction Processing) hosting machines.</b> You usually need to <b>look no further than this to find why many apps have such slow timings</b> as I shared in chapter 1.
 - Add to that any filtered GET query logic running on those very same machines because it got jammed into the same app logic. Monoliths (which tend to be scale-up vs scale-out systems) have enough trouble running out of headroom already. Why make it worse by burning your precious CPU cycles on such?
 - In contrast, the journaled nouns write to two tables on a write, read from one table on a GET. And they offload filtered queries to the query service running on designated (and often cheaper) machines that don’t burn your precious OLTP CPU cycles at all.
 
@@ -30,7 +30,7 @@ No app architecture is perfect, but, at times, I wish for a few of these to hand
 
 <a href="/assets/img/WisdomChasingYou.png" data-lightbox="epilogue"><img src="/assets/img/WisdomChasingYou.png" width="30%" height="30%" /></a>
 
-The MSFT commerce team worried a lot about scale because in their world, those infamous Super Bowl Sunday load spikes were not just theoretical. 
+The Microsoft commerce team worried a lot about scale because in their world, those infamous Super Bowl Sunday load spikes were not just theoretical. 
 - They had scars from app scaling failures under load. They knew from experience that all of those differing backup/restore/failover policies and semantics spanning the mix of DBs, Queuing, Pub/Sub, etc. products would result in out-of-sync data and/or long restore times - <b>in other words, even with them, significant manual cleanup was usually required.</b>
   - In that context, using only a relational DB in the journaled service model was a very attractive simplification. It meant failovers would keep data in sync, backup/restores would be more granular and faster, and monitoring would be greatly simplifed.
   <br>
@@ -47,7 +47,7 @@ They were a group comprised of engineers with backgrounds spanning building:
 - operating systems
 - compilers
 - distributed computing frameworks
-- and apps using all of the above (both at MSFT and prior)
+- and apps using all of the above (both at Microsoft and prior)
 
 >I have no doubt that their diverse backgrounds contributed to their willingness to question, as well as to their epiphany for the journaled microservices architecture. 
 
@@ -57,7 +57,7 @@ They were a group comprised of engineers with backgrounds spanning building:
 <br>
 Over the years, the journaled microservice architecture has spread across several companies as engineers from the original team went their separate ways. <b>The “I can’t believe it’s this simple” epiphany shared by that original architecture team - <i>that four simple primitives could be used to build almost any application </i> - has stood the test of time well.</b>
 
-Some nice evolution has occurred as well. <b>What began as patterns and templates in that MSFT commerce team has evolved a lot since.</b> (Having exorcised (mostly) my game-dev demons by then, I did get to help with that!) 
+Some nice evolution has occurred as well. <b>What began as patterns and templates in that Microsoft commerce team has evolved a lot since.</b> (Having exorcised (mostly) my game-dev demons by then, I did get to help with that!) 
 
 I shared a coffee with a brilliant friend from that original team a couple of years ago (who was also in my dev team that built reliable messaging into the SQL Server prior. Hi, Ivan!). One of his most poignant comments over coffee that day was, <b>“The biggest mistake we made was in not standardizing the patterns into implementations for everyone to share.”</b>
 
