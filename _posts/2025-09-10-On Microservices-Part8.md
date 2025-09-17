@@ -42,14 +42,14 @@ The Microsoft commerce team worried a lot about scale because in their world, th
 
 This additional anecdote on perf is a bit more of the journaled microservices origin story I told in Chapter 2. I share it here because it is an interesting case study that, to my knowledge, has never been written down for broader consumption. They were a group of experienced, open-minded engineers who dared to ask hard questions about common practices in building applications, and to creatively consider alternatives - always a good thing.
 
-Their backgrounds spanning building: 
+Their backgrounds spanned: 
 - databases
 - operating systems
 - compilers
 - distributed computing frameworks
 - and apps using all of the above (both at Microsoft and prior)
 
->I have no doubt that their diverse backgrounds contributed to their willingness to question, as well as to their epiphany for the journaled microservices architecture. 
+>No doubt this diversity contributed to their willingness to reexamine and question, as well as to their epiphany for the journaled microservices architecture. (Which is a bit of a lesson in itself on team staffing. Fresh perspectives mixed with diverse experiences can be a powerful combination.)
 
 (A personal anecdote: I almost joined my numerous friends/colleagues on that same team, but after 20+ years focused on distributed computing frameworks and databases, I was more enamored with building games for kids at the time. We all had fun. No regrets!)
 
