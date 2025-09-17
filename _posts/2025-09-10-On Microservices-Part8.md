@@ -38,11 +38,11 @@ The Microsoft commerce team worried a lot about scale because in their world, th
 - But before ditching all of those, they also needed to confirm that the journaled microservice model could actually scale. 
   - To that end, they load tested the journaled microservice model in excess of 800 updates (PUT/POST) per second. This was more than 3x the highest load anyone had ever seen from a Super Bowl type of spike.
 
-Predictably, the model outperformed their other, previous app architectures.
+  Predictably, the model outperformed their other, previous app architectures.
 
-That little perf anecdote is a bit more of the journaled microservices origin story I told in Chapter 2. I'm glad to share it here because, to my knowledge, it has never been written down for broader consumption. It is a story is about a group of experienced, open-minded engineers who dared to ask hard questions about common practices in building applications, and to creatively consider alternatives - always a good thing.
+This additional anecdote on perf is a bit more of the journaled microservices origin story I told in Chapter 2. I share it here because it is an interesting case study that, to my knowledge, has never been written down for broader consumption. They were a group of experienced, open-minded engineers who dared to ask hard questions about common practices in building applications, and to creatively consider alternatives - always a good thing.
 
-They were a group comprised of engineers with backgrounds spanning building: 
+Their backgrounds spanning building: 
 - databases
 - operating systems
 - compilers
@@ -63,13 +63,13 @@ I shared a coffee with a brilliant friend from that original team a couple of ye
 
 I had repeated that mistake once myself - particularly on the Journal Reader. <b>Per his warning and our mutual pain, libraries and default implementations were created in subsequent instantiations.</b> Much of what I have written about here has made its way into those implementations, including:
 
-  1. The resource library used by noun services to handle all DB calls accessing the ‘resource’ and ‘journal’ tables. Three versions of this library (Java, C#, Go) have implemented optimistic locking. One even added sophisticated support for idempotency.
+  1. A resource library used by noun services to handle all DB calls accessing the ‘resource’ and ‘journal’ tables. Three versions of this library (Java, C#, Go) have implemented optimistic locking. One even added sophisticated support for idempotency.
 
-  2. The query service library that implements support for translating simple REST GETs with URLs into relational DB calls with JSON responses. The first stored the canned queries and mapping in a DB table. Subsequent builds replaced that with a simple resource file, versioned via Github checkins and pushed to prod via modern CI/CD. I strongly prefer the latter.
+  2. A query service library that implements support for translating simple REST GETs with URLs into relational DB calls with JSON responses. The first stored the canned queries and mapping in a DB table. Subsequent builds replaced that with a simple resource file, versioned via Github checkins and pushed to prod via modern CI/CD. I strongly prefer the latter.
 
-  3. The journal reader library that implements loose-coupled pull semantics while maintaining its own ‘clock’, quarantine/retry, and with support for spreading the work (to process the journaled entries) across n tasks using consistent hashing to guarantee resource updates are processed in order.
+  3. A journal reader library that implements loose-coupled pull semantics while maintaining its own ‘clock’, quarantine/retry, and with support for spreading the work (to process the journaled entries) across n tasks using consistent hashing to guarantee resource updates are processed in order.
   
-  All of the above have included support for JWTs and Authn/Authz logic that leveraged them. 
+  All of the above have included support for JWTs (JSON Web Tokens) and Authn/Authz logic that leveraged them. 
 
 (Other innovations not discussed here exist in the wild as well. Examples include: <b>1) a batch scheduler that runs jobs based on multiple, pre-defined conditions having been met 2) a full B2C chat product</b> and more. Be creative!)
 
@@ -88,7 +88,7 @@ To those who would claim that building microservices is too hard or too much of 
   - Do you know what actions will be done to the nouns? 
   - Do you know the actors and the minimal nouns/actions surface area that they need to use?
   <br>
-  (Wait, are we saying that great apps should be based on well-defined, simple app primitives too? Yep. Nothing better predicts failure than jumping to code BEFORE knowing those answers, regardless of app architecutre chosen.)
+  (Wait, are we saying that great apps should be based on well-defined, simple app primitives too? Yep. Nothing better predicts failure than jumping to code BEFORE knowing those answers, regardless of app architecture chosen.)
 
   Skipping those basics yields results on par with this guy.
   <br>
