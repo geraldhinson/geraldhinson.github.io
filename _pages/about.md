@@ -26,8 +26,6 @@ latest_posts:
 
 <a href='https://linkedin.com/in/geraldhinson'> Gerald Hinson @ LinkedIn</a>
 
-(NOTE: if you are seeing this 'NOTE' this website is still under heavy construction.)
-
 This personal website coughed to life like a neglected V8 engine for several reasons.
 
 Partly to provide a place to write biz/tech posts longer than LinkedIn allows. Partly as a forward link destination from other sites that vary greatly in terms of format & content supported.
@@ -39,12 +37,12 @@ But, as the title above implies, I am still learning.
 That said, if you find of interest:
 
 - My thoughts on building great software
-- Studies and stories from my life that explain my unapologetic faith in God/Jesus (and why you should join me in that)
+- Studies and stories from my life that contribute to my unapologetic faith in God/Jesus (that hopefully encourage you to consider the same)
 - How an Arkansas land-lubber becomes a sailboat enthusiast
 
 OR
 
-If you likewise find occasion to build <b>back-end services</b>, you may be here for <b>Siftd</b> - the <em>(WARNING: adjective abuse ahead)</em> open-source, data-center agnostic, <b>journaled-microservice</b> framework for building simple backends that scale.
+If you likewise find occasion to build <b>back-end services</b>, you may be here for <b>Siftd</b> - the <em>(WARNING: adjective abuse ahead)</em> open-source, data-center agnostic, <b>journaled-microservice</b> framework for building simple backends that scale. (Note: Siftd is the nascent stages of an open-source collaboration between several engineers who have previously built proprietary versions of the journaled microservice framework documented in my tech-blog. While the journaled microservice framework pattern is a proven model, the Siftd codebase is not (yet). Just a friendly FYI.)
 
 Regardless, poke around a bit.
 
