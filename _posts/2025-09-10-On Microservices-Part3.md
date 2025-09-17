@@ -68,6 +68,8 @@ to
 
 That doesn't roll off the tongue quite so easily, but to quote Einstein, <i>"things should be as simple as possible, but not simpler".</i> 
 
+<a href="/assets/img/Overcomplicated.gif" data-lightbox="Nouns"><img src="/assets/img/Overcomplicated.gif" width="65%" height="65%" /></a>
+
 Albert would have been proud because noun services became <b>faster, consumed fewer resources, and were simpler to scale due to predictable (and less) database usage</b>. Plus, <b>writing & maintaining them became much simpler</b>, too.
 
 Next up: Query Services
