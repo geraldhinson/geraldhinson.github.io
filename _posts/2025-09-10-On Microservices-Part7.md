@@ -96,6 +96,8 @@ I've run entire apps built using the journaled services model on a laptop. For t
 
 The point is that **you have control** to do whatever makes sense for you.
 
+<a href="/assets/img/MindControlCat.png" data-lightbox="Control"><img src="/assets/img/MindControlCat.png" width="50%" height="50%" /></a>
+
 Ok, now for that summary.
 
 [Next chapter!](/blog/2025/On-Microservices-Part8/)
