@@ -47,7 +47,9 @@ To help illuminate, here is some real data on those objections from 2 companies 
    - Microservices (Updates 4-5 ms, Reads 2-3 ms)
    - Monolith equivalent (Updates & Reads: Always > 100 ms. Average 250-500ms)
 <br><br>
-   (Ok, chill out, you monolithians. I see you raging. My point here is more about how fast microservices can be than how terrible those monoiths were. That said, while I'm **sure** that your monolith is much better, I see more monolith app timings like this than not.)
+    Note: The microservice numbers reported here were for Amazon's Aurora Postgres implementation. The Aurora MySQL numbers were ~5ms slower for both reads and writes. All of the times above measure the time elapsed between the receipt of an http request to the http response written, including the roundtrip to/from the database.
+<br><br>
+   (Ok, chill out, you monolithians. I see you raging. My point here is more about how fast microservices can be than how slow those monoiths were. That said, while I'm **sure** that your monolith is much better, monolith app timings like this are hardly unusual findings in my experience.)
 <br><br>
 
 <b>2. Too much latency calling between microservices </b>
