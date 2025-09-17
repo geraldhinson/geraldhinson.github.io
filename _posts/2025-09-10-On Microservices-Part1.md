@@ -59,8 +59,8 @@ To help illuminate, here is some real data on those objections from 2 companies 
 
 <b> 3. Too difficult to write / Too granular </b>
  - Facts: 
-   - We found it trivial to automate both code-gen & provisioning of microservices. Even low-tech scripts doing keyword substitutions work fine.
-   - Most microservices contain code they should not. Primary offenders: ORMs shredding JSON into tables & code written to perform queries on the same. Time spent writing this code, especially the queries in microservice logic is usually a waste of time. This is significant given most microservices consist of 50-75% of this sort of code.
+   - We found it trivial to automate both code-gen & provisioning of the common code found in microservices - things like logic for initialization, routing, persistence, authn/authz, database table scripts, etc. <b>What remained was the app-logic that has to be implemented regardless of app architecture chosen.</b> And, while GenAI can make this even more trivial today, prior to that even low-tech scripts doing keyword substitutions were quite effective.
+   - <b>Most microservices contain code they should not.</b> Primary offenders: ORMs shredding JSON into tables & code written to perform queries on the same. Time spent writing this code (especially the queries) in microservice logic is usually a waste of time. This is significant given that <b>50-75% of most microservices consist of exactly this sort of code.</b>
 <br><br>
 
 <b> 4. Too complex to monitor/debug </b>
@@ -70,7 +70,7 @@ To help illuminate, here is some real data on those objections from 2 companies 
 
 As usual a bit of engineering diligence can do wonders for testing "common knowledge". 
 
-In my next few posts, I'll explore an approach to microservices that several companies have leveraged to great success. I think you will find it of great interest.
+In my next few posts, I'll explore an approach to microservices that several companies have leveraged to great success. It is essentially a case study that many of you will likely find of great interest.
 
 [Continue to Chapter 2](/blog/2025/On-Microservices-Part2/)
 
