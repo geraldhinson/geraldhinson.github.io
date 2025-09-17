@@ -30,7 +30,7 @@ This personal website coughed to life like a neglected V8 engine for several rea
 
 Partly to provide a place to write biz/tech posts longer than LinkedIn allows. Partly as a forward link destination from other sites that vary greatly in terms of format & content supported.
 
-But, mostly to be a <b>single location for <sup>(1)</sup>ruminations on the topics that matter most to me (and perhaps to you?). Things like: <b>faith, family, technology, leadership, guitar, coffee, sailing</b>, and, of course, the (successful) pursuit of the <b>perfect biscuit!</b> My life thus far has been an endless fixation on the things in that list.
+But, mostly to be a <b>single location for <sup>(1)</sup>ruminations on the topics that matter most to me (and perhaps you). Things like: <b>faith, family, technology, leadership, guitar, coffee, sailing</b>, and, of course, the pursuit of the <b>perfect biscuit!</b> My life thus far has been an endless fixation on the things in that list.
 
 But, as the title above implies, I am still learning.
 
