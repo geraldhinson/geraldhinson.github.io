@@ -20,17 +20,21 @@ With that Push versus Pull context in mind, let's now examine the Journal Reader
 
 <b>— Journal Reader Services — </b>
 
+Here is an image showing a possible implementation of a Journal Reader:
+
+<a href="/assets/img/JournalReaderDepicted.png" data-lightbox="Journals"><img src="/assets/img/JournalReaderDepicted.png" width="90%" height="90%" /></a>
+
 At a high level, the Journal Reader service does this:
 
 <b><i>The PULL</i></b>
 
 Each Journal Reader calls a noun service with a simple GET call to retrieve any resource entries appended to that noun’s journal table that are yet unprocessed (by this journal reader).
 
-<b>Here is a sample GET call from one of my Postman collections (Note: the "{{ }}" values are Postman env variables):</b>
+<b>Here is a sample GET call from one of my Postman collections (Note: the "\{\{ \}\}" values are Postman env variables):</b>
 
-<b> \{\{HTTP\}\}://\{\{EMPLOYEES-HOSTPORT\}\}/v1/journal?clock=10950&limit=100</b>
+<b> \{\{HTTP\}\}://\{\{ORDERS-HOSTPORT\}\}/v1/journal?clock=10950&limit=100</b>
 
-This call fetches up to 100 journaled entries from the employees service starting at the 10950th entry (because the earlier ones were already processed).
+This call fetches up to 100 journaled entries from the orders service starting at the 10950th entry (because the earlier ones were already processed).
 
 Key points:
 - Every Journal Reader manages (persists) its own highest, last-read entry from a noun’s journal (called 'clock' in the URL above).
