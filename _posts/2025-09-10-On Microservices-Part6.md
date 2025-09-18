@@ -72,7 +72,7 @@ Any entry not processed successfully by a journal reader processor will be inser
 But, this 'Quarantined' table is not a typical (read: lame) dead-letter queue like is found most queuing systems. 
 
 Differences:
-- Any subsequent journal entry sharing the same resource-id as a resource currently in the Quarantined table will also be placed into the Quaratined table. This prevents processing later versions of a resource out-of-order.
+- Any subsequent journal entry sharing the same resource-id as a resource currently in the Quarantined table will also be placed into the Quarantined table. This prevents processing later versions of a resource out-of-order.
 - The Journal Reader has separate background thread(s) that retries (ie. calls the failing journal reader processor again) entries currently in the Quarantined table on the assumption that the problem causing the error will be resolved.
 - Want to see what is failing? Just run a query on the Quarantined table. You will instantly know which entries failed, what processor logic failed them, and the error/exception thrown as part of that failure.
   - Recommendation: Having background monitoring checking this table for count of entries, etc. with appropriate notifications to the right mix of OPS/Engineering/Other is very powerful. 
