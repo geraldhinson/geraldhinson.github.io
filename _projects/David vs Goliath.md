@@ -84,10 +84,10 @@ And some other fun recognition screen-shotted from the RighteousTales website.
 Creating David vs Goliath was done with:  
 - 1 software engineer 
    - <i>me</i>
-- 2 full-time animator/artists  + 1 part-time animator (for 1 year) to help crank out animation frames
+- 2 full-time animator/artists  + 1 part-time animator (for 1 year to help crank out animation frames)
    - <i>David Hammer, Nolen Lee, Patrick Tuorto</i>
-- 4 voice actors
-   - <i>Dave Pettitt, J.S. Gilbert, Mark Lund, Karen Lund</i>
+- 4 amazing voice actors
+   - <i>Dave Pettitt (Goliath, Narrator), J.S. Gilbert (Goliath's shield-bearer, all other voices not specified here), Mark Lund (David), Karen Lund (Samuel's wife, Saul's spunky daughter, Merab) </i>
 - 1 sound genius who created both the original score and sound FX
    - <i>Stan LePard</i>
 
