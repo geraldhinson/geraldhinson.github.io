@@ -1,7 +1,7 @@
 ---
 layout: page
 title: David vs Goliath
-description: A storytelling / game experience for kids
+description: Teaching spiritual values via a storytelling / game experience for kids
 img: assets/img/DavidVsGoliathPosingTogether.jpg
 importance: 4
 category: actual
@@ -9,7 +9,11 @@ category: actual
 
 David vs Goliath is an iOS app that combines storytelling with mini-games.
 
-The narrative tells the story of David from his early life as a shepherd up to his legendary showdown with the warrior-giant, Goliath. Kids playing through the nearly 40 chapters of this story will encounter:
+The narrative tells the Biblical story of David from his early life as a shepherd up to his legendary showdown with the warrior-giant, Goliath. While famous worldwide, the story is <b>commonly misunderstood as "rare win for the little guy facing a big bully" when in reality it is much more than that.</b>
+
+The David vs Goliath story is actually about a young man whose great faith in God led him to <b>risk all to save his nation (Israel) from being enslaved by their enemies.</b> To truly understand the gravity and faith involved is to also understand why the story was recorded for all time and why the Israelites made David their king.
+
+Kids playing through the nearly 40 chapters of this story will encounter:
 
 - Samuel, the prophet
 - Saul, the neurotic King
