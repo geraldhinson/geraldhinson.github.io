@@ -1,7 +1,7 @@
 ---
 layout: page
 title: David vs Goliath
-description: Teaching spiritual values via a storytelling / game experience for kids
+description: Teaching spiritual values via a storytelling / game experience for kids (2014-present)
 img: assets/img/DavidVsGoliathPosingTogether.jpg
 importance: 4
 category: actual
