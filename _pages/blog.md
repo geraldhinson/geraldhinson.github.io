@@ -4,7 +4,7 @@ permalink: /blog/
 title: tech-blog
 description: thoughts on tech, biz, coffee, and other topics worthy of rumination
 nav: true
-nav_order: 1
+nav_order: 2
 pagination:
   enabled: false
   collection: posts

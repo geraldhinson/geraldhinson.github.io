@@ -104,6 +104,8 @@
                     {%- assign url = p.permalink -%}
                   {%- elsif p.permalink contains '/blog/' -%}
                     {%- assign url = '/blog/' -%}
+                  {%- elsif p.permalink contains '/faith/' -%}
+                    {%- assign url = '/faith/' -%}
                   {%- else -%}
                     {%- assign url = p.url -%}
                   {%- endif %}

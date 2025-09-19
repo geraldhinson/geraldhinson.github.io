@@ -8,7 +8,7 @@ categories: actual-posts
 thumbnail: assets/img/TheMegVsContainerShip.jpeg
 ---
 
-### Microservices get a bad rap
+### Microservices get a bad rap sometimes
 
 I see many posts on LinkedIn, etc. advocating against the use of microservices to build apps. 
 
