@@ -97,6 +97,6 @@ Pulling it off with the quality of animation, audio, and minimal size required t
 
 To this day, the David vs Goliath project stands alone as both the hardest thing I've ever done (professionally) and that of which I am most proud. 10 years+ later it is still rated 4.8 / 5 on the app store and I still get emails from all around the world thanking us for building it (and asking for more), both of which make my heart smile.
 
-There were also some pretty cool God-stories that we experienced along they way. When those appear on my faith-blog, I'll update this article with a link.
+There were also some pretty cool God-stories that we experienced along the way. When those appear on my faith-blog, I'll update this article with a link.
 
 Gerald (thus far)
