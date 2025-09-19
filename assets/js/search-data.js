@@ -398,7 +398,7 @@ ninja.data = [{
               window.location.href = "/projects/9_project/";
             },},{id: "projects-david-vs-goliath",
           title: 'David vs Goliath',
-          description: "Teaching spiritual values via a storytelling / game experience for kids",
+          description: "Teaching spiritual values via a storytelling / game experience for kids (2014-present)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/David%20vs%20Goliath/";
             },},{
