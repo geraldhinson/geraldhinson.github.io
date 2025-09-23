@@ -3,7 +3,7 @@ layout: post
 title: Bad bosses suck
 date: 2025-04-21 12:00:00
 description: And life is short
-tags: leadership technology
+tags: leadership
 categories: actual-posts
 thumbnail: assets/img/LedZeppelin.jpg
 ---

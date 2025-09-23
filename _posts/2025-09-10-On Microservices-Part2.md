@@ -3,7 +3,7 @@ layout: post
 title: On Microservices (Chapter 2 - An origin story)
 date: 2025-09-10 12:00:00
 description: The origin of "Journaled Microservices"
-tags: leadership technology
+tags: technology
 categories: actual-posts
 thumbnail: assets/img/TheMegVsContainerShip.jpeg
 ---

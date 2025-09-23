@@ -3,7 +3,7 @@ layout: post
 title: On Microservices (Chapter 4 - Query Services)
 date: 2025-09-10 12:00:00
 description: The second of four service types
-tags: leadership technology
+tags: technology
 categories: actual-posts
 thumbnail: assets/img/TheMegVsContainerShip.jpeg
 ---

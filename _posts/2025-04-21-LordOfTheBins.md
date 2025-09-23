@@ -3,7 +3,7 @@ layout: post
 title: One Ring to ...
 date: 2025-04-21 12:00:00
 description: The importance of actually caring
-tags: leadership technology
+tags: leadership
 categories: actual-posts
 thumbnail: assets/img/LordOfTheBins.jpeg
 ---

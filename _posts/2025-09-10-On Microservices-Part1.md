@@ -3,7 +3,7 @@ layout: post
 title: On Microservices (Chapter 1 - Bad Raps versus Facts)
 date: 2025-09-10 12:00:00
 description: A bit of pushback where needed
-tags: leadership technology
+tags: technology
 categories: actual-posts
 thumbnail: assets/img/TheMegVsContainerShip.jpeg
 ---

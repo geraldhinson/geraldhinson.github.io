@@ -42,7 +42,11 @@ That said, if you find of interest:
 
 OR
 
-If you likewise find occasion to build <b>back-end services</b>, you may be here for <b>Siftd</b> - the <em>(WARNING: adjective abuse ahead)</em> open-source, data-center agnostic, <b>journaled-microservice</b> framework for building simple backends that scale. <i>(Note: Siftd is the nascent stages of an open-source collaboration between several engineers who have previously built proprietary versions of the journaled microservice framework documented in my tech-blog. While the journaled microservice framework pattern is a proven model, the Siftd codebase is not (yet). Just a friendly FYI.)</i>
+<div>
+If you likewise find occasion to build <b>back-end services</b>, you may be here for <b>Siftd</b> - the <em>(WARNING: adjective abuse ahead)</em> <b>open-source, data-center agnostic, journaled-microservice</b> framework for building simple backends that scale. 
+
+<div style="margin-left:20px; margin-top:0px; margin-bottom:15px"><i>(Note: Siftd is the nascent stages of an open-source collaboration between several engineers who have previously built proprietary versions of the journaled microservice framework documented in my tech-blog. While the journaled microservice framework pattern is a proven model, the Siftd codebase is not (yet). Just a friendly FYI.)</i></div>
+</div>
 
 Regardless, poke around a bit.
 

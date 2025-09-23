@@ -3,7 +3,7 @@ layout: post
 title: Pragmatic GenAI
 date: 2025-05-10 21:01:00
 description: Daily (non-vibe) usage for developers
-tags: leadership technology
+tags: technology
 categories: actual-posts
 thumbnail: assets/img/GenAIAssists.jpeg
 ---
