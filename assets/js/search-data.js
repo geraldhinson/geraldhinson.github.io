@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/repositories/";
           },
-        },{id: "post-on-microservices-chapter-8-epilogue",
+        },{id: "post-profound-understandings",
+        
+          title: "Profound Understandings",
+        
+        description: "The importance of truly listening",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/ProfoundUnderstsandings/";
+          
+        },
+      },{id: "post-on-microservices-chapter-8-epilogue",
         
           title: "On Microservices (Chapter 8 - Epilogue)",
         
