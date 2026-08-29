@@ -1,0 +1,53 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+
+const modules = import.meta.glob("./*.md", { eager: true });
+
+const posts = Object.entries(modules)
+  .map(([path, post]) => {
+    const slug = path.split("/").pop().replace(/\.md$/, "");
+    return {
+      ...post.frontmatter,
+      url: `/tech-blog/${slug}/`
+    };
+  })
+  .sort((a, b) => new Date(b.date) - new Date(a.date));
+---
+
+<BaseLayout title="Tech Blog | Gerald Hinson" description="Technical writing">
+  <h1>biz/tech blog</h1>
+  <p class="subtitle">thoughts on tech, biz, coffee, and other topics worthy of rumination</p>
+
+  <ul class="post-list">
+    {posts.map((post) => (
+    <li class="post-summary">
+
+        <div class="post-text">
+
+            <a class="item-title" href={post.url}>
+                {post.title}
+            </a>
+
+            <div class="item-caption">
+                {post.description}
+            </div>
+
+            <div class="item-meta">
+                Posted on {new Date(post.date).toLocaleDateString()}
+            </div>
+
+        </div>
+
+        {post.thumbnail && (
+            <img
+                class="post-thumb"
+                src={post.thumbnail}
+                alt=""
+                onerror="this.style.display='none';"
+            />
+        )}
+
+    </li>
+    ))}
+  </ul>
+</BaseLayout>

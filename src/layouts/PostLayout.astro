@@ -1,0 +1,23 @@
+---
+import BaseLayout from "./BaseLayout.astro";
+
+const { frontmatter } = Astro.props;
+const date = new Date(frontmatter.date);
+---
+
+<BaseLayout
+  title={`${frontmatter.title} | Gerald Hinson`}
+  description={frontmatter.description ?? ""}
+>
+  <article>
+    <h1>{frontmatter.title}</h1>
+    <div class="item-meta">
+      {date.toLocaleDateString("en-US", {
+        year: "numeric",
+        month: "long",
+        day: "numeric"
+      })}
+    </div>
+    <slot />
+  </article>
+</BaseLayout>

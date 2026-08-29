@@ -1,0 +1,44 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+
+const modules = import.meta.glob("./*.md", { eager: true });
+
+const projects = Object.entries(modules)
+  .map(([path, project]) => {
+    const slug = path.split("/").pop().replace(/\.md$/, "");
+
+    return {
+      ...project.frontmatter,
+      url: `/projects/${slug}/`
+    };
+  })
+  .sort((a, b) => new Date(b.date) - new Date(a.date));
+---
+
+<BaseLayout title="Projects | Gerald Hinson">
+  <h1>projects</h1>
+  <p class="subtitle">things I have built or worked on</p>
+
+  <div class="project-grid">
+    {projects.map((project) => (
+      <a class="project-card" href={project.url}>
+        <img
+          src={project.thumbnail}
+          alt=""
+        />
+
+        <div class="project-caption">
+          <div class="project-title">
+            {project.title}
+          </div>
+
+          {project.description && (
+            <div class="project-description">
+              {project.description}
+            </div>
+          )}
+        </div>
+      </a>
+    ))}
+  </div>
+</BaseLayout>

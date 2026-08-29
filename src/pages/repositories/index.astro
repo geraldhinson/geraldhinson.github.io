@@ -1,0 +1,175 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+
+const groups = [
+  {
+    name: "Siftd",
+    description: "Framework and supporting services for the Siftd architecture.",
+    repositories: [
+      {
+        name: "siftd-base",
+        visibility: "public",
+        url: "https://github.com/geraldhinson/siftd-base"
+      },
+      {
+        name: "siftd-queryservice-base",
+        visibility: "public",
+        url: "https://github.com/geraldhinson/siftd-queryservice-base"
+      },
+      {
+        name: "siftd-journalreader-base",
+        visibility: "private collaboration only",
+        url: "https://github.com/geraldhinson/siftd-journalreader-base"
+      },
+      {
+        name: "siftd-scheduler-base",
+        visibility: "private collaboration only",
+        url: "https://github.com/geraldhinson/siftd-journalreader-base"
+      },
+      {
+        name: "siftd-example-employee-service",
+        visibility: "public",
+        url: "https://github.com/geraldhinson/siftd-example-employee-service"
+      },
+      {
+        name: "siftd-example-query-service",
+        visibility: "public",
+        url: "https://github.com/geraldhinson/siftd-example-query-service"
+      }
+    ]
+  },
+  {
+    name: "Boutique Social Media Platform",
+    description: "Social Media framework (based on Siftd) designed to be instantiated for specific interests.",
+    repositories: [
+      {
+        name: "Tiktokish",
+        visibility: "private collaboration only - Flutter-based frontend app for the social media backend",
+        url: null
+      },
+      {
+        name: "GSM_Identity",
+        visibility: "private collaboration only",
+        url: null
+      },
+      {
+        name: "GSM_User",
+        visibility: "private collaboration only",
+        url: null
+      },
+      {
+        name: "GSM_User_JournalReader",
+        visibility: "private collaboration only",
+        url: null
+      },
+      {
+        name: "GSM_Post",
+        visibility: "private collaboration only",
+        url: null
+      },
+      {
+        name: "GSM_Post_JournalReader",
+        visibility: "private collaboration only",
+        url: null
+      },
+      {
+        name: "GSM_Notifications",
+        visibility: "private collaboration only",
+        url: null
+      },
+      {
+        name: "GSM_Notifications_JournalReader",
+        visibility: "private collaboration only",
+        url: null
+      },
+      {
+        name: "GSM_Queries",
+        visibility: "private collaboration only",
+        url: null
+      },
+      {
+        name: "GSM_SupabasePost_reader",
+        visibility: "private collaboration only",
+        url: null
+      },
+      {
+        name: "GSM_SupabaseUser_reader",
+        visibility: "private collaboration only",
+        url: null
+      },
+    ]
+  },
+  {
+    name: "RunSomeNumbers",
+    description: "A fresh approach to every-day calculations",
+    repositories: [
+      {
+        name: "RunSomeNumbers",
+        visibility: "private in progress - An app that excels in enabling multi-step calculations.",
+        url: null
+      },
+    ]
+  },
+  {
+    name: "Insulin Advisor",
+    description: "A companion (IOS) app for those with Type-1. Includes personal database, calculates insulin dosage, works offline.",
+    repositories: [
+      {
+        name: "InsulinAdvisor",
+        visibility: "private",
+        url: null
+      },
+    ]
+  },
+  {
+    name: "David vs Goliath",
+    description: "Hybrid story-telling/game app that tells the classic story with biblical accuracy",
+    repositories: [
+      {
+        name: "DavidVsGoliath",
+        visibility: "private - 2D game engine and game/story",
+        url: null
+      },
+    ]
+  },
+
+];
+---
+<BaseLayout title="Repositories | Gerald Hinson">
+  <h1>repositories</h1>
+  <p class="subtitle">
+    Public and private repositories grouped by project.
+  </p>
+
+  {groups.map((group) => (
+    <section class="repo-group">
+      <h2>{group.name}</h2>
+
+      {group.description && (
+        <p class="repo-group-description">
+          {group.description}
+        </p>
+      )}
+
+      <ul class="repo-list">
+        {group.repositories.map((repo) => (
+          <li>
+            {repo.url ? (
+              <a class="item-title" href={repo.url}>
+                {repo.name}
+              </a>
+            ) : (
+              <span class="item-title">
+                {repo.name}
+              </span>
+            )}
+
+            <span class="repo-visibility">
+              ({repo.visibility})
+            </span>
+          </li>
+        ))}
+      </ul>
+    </section>
+  ))}
+</BaseLayout>
