@@ -62,11 +62,6 @@ a:hover { text-decoration: underline; }
   backdrop-filter: blur(8px);
 }
 
-/*------------------*
- *  Navigation 
- *------------------*/
-
-/* default values */
 .nav {
   max-width: var(--max-width);
   margin: 0 auto;
@@ -82,22 +77,9 @@ a:hover { text-decoration: underline; }
   margin-right: auto;
 }
 
-/* overrides for mobile */
-@media (max-width: 700px) {
-  .nav {
-    justify-content: center;
-    gap: 0.75rem 1rem;
-  }
-
-  .brand-slot {
-    display: none;
-  }
-}
-
 .nav .brand {
   font-weight: 700;
 }
-
 
 main {
   max-width: var(--max-width);
@@ -116,12 +98,6 @@ h1 {
   margin-bottom: 2rem;
 }
 
-
-
-/*--------------------*
- *  Posts
- *--------------------*/
-
 .post-list,
 .project-list,
 .repo-list {
@@ -133,10 +109,6 @@ h1 {
 .repo-list li {
   margin: 0 0 1.4rem;
 }
-
-/*--------------------*
- *  Posts - defaults
- *--------------------*/
 
 .post-summary {
     display: flex;
@@ -171,6 +143,7 @@ h1 {
     border-radius: 6px;
 }
 
+
 .item-title {
   font-size: 1.5rem;
   font-weight: 400;
@@ -191,36 +164,6 @@ h1 {
   color: var(--muted);
   font-size: 0.8rem;
 }
-
-/*------------------------------*
- *  Posts - mobile overrides
- *------------------------------*/
-@media (max-width: 700px) {
-  .post-summary {
-    gap: 0.8rem;
-  }
-
-  .post-text {
-    min-width: 0;
-  }
-
-  .post-thumb {
-    width: 95px;
-    height: 85px;
-    flex-shrink: 0;
-    object-fit: contain;
-  }
-
-  .item-title {
-    font-size: 1rem;
-    line-height: 1.25;
-  }
-
-  .item-caption {
-    font-size: 0.9rem;
-  }
-}
-
 
 article { line-height: 1.65; }
 

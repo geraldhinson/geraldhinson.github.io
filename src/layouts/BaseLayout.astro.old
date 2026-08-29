@@ -30,11 +30,11 @@ const {
   <body>
     <header class="site-header">
       <nav class="nav">
-        <div class="brand-slot">
-          {showBrand && (
-            <a class="brand" href="/">Gerald, thus far</a>
-          )}
-        </div>
+      <div class="brand-slot">
+        {showBrand && (
+          <a class="brand" href="/">Gerald, thus far</a>
+        )}
+      </div>
         <a href="/">about</a>
         <a href="/tech-blog/">biz/tech-blog</a>
         <a href="/faith-blog/">faith-blog</a>
