@@ -3,7 +3,7 @@
   --text: #222222;
   --muted: #666666;
   --accent: #b713c3;
-  --link: #2f6f62;
+  --link: #580a5e;
   --border: #dddddd;
   --max-width: 950px;
 }
@@ -13,7 +13,7 @@
     --bg: #111111;
     --text: #eeeeee;
     --muted: #aaaaaa;
-    --link: #80c7b7;
+    --link: #b713c3;
     --border: #333333;
   }
 }
