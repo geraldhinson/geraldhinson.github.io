@@ -1,11 +1,11 @@
 ---
 layout: ../../layouts/PostLayout.astro
 title: China Is Playing CHESS
-date: 2025-07-29 12:00:00
+date: 2026-07-29 12:00:00
 description: A lesson in world power worth internalizing
 tags: leadership technology
 categories: actual-posts
-thumbnail: /assets/img/ChinaChess.png
+thumbnail: /assets/img/ChinaPlayingChess.png
 ---
 
 You know what is going on while our (US) journalists are rage-baiting us with nonsense like:
