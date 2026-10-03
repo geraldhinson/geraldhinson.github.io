@@ -6,6 +6,12 @@ The design goal is intentionally boring:
 
 The site uses only Astro, HTML, CSS, Markdown, and a small amount of ordinary JavaScript inside `.astro` files.
 
+## To deal with reported vulnerabilities
+npm audit
+npm audit fix 
+-- (don't use -force unless you know you should. It can do damage, like (eg.) seriously downgrading the website because a vulnerability was found in something that has not yet been fixed (and which may not present a problem for my website))
+npm ls [reported vulnerable package] (example: http-cache-semantics)
+
 ## Run locally
 
 ```bash
